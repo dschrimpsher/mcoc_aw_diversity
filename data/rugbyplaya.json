@@ -2,45 +2,153 @@
   "id": "rugbyplaya",
   "champs": [
     {
+      "name": "Doctor Voodo",
+      "class": "Mystic",
+      "pi": 6672,
+      "stars": 4
+    },
+    {
+      "name": "Ghost Rider",
+      "class": "Mystic",
+      "pi": 6579,
+      "stars": 4
+    },
+    {
+      "name": "Karnak",
+      "class": "Skill",
+      "pi": 6497,
+      "stars": 4
+    },
+    {
+      "name": "Nightcrawler",
+      "class": "Mutant",
+      "pi": 6305,
+      "stars": 4
+    },
+    {
+      "name": "Black Widow",
+      "class": "Skill",
+      "pi": 5966,
+      "stars": 4
+    },
+    {
+      "name": "Daredevil",
+      "class": "Skill",
+      "pi": 5800,
+      "stars": 4
+    },
+    {
+      "name": "Star Lord",
+      "class": "Tech",
+      "pi": 5702,
+      "stars": 4
+    },
+    {
       "name": "Ant Man",
       "class": "Science",
-      "pi": 5586,
+      "pi": 5644,
       "stars": 5
     },
     {
       "name": "Hulk",
       "class": "Science",
-      "pi": 5533,
+      "pi": 5626,
       "stars": 5
+    },
+    {
+      "name": "Vision",
+      "class": "Tech",
+      "pi": 5621,
+      "stars": 4
     },
     {
       "name": "Drax",
       "class": "Cosmic",
-      "pi": 5490,
+      "pi": 5579,
       "stars": 5
     },
     {
       "name": "Iron Fist",
       "class": "Mystic",
-      "pi": 4102,
+      "pi": 4760,
       "stars": 5
+    },
+    {
+      "name": "Rogue",
+      "class": "Mutant",
+      "pi": 4661,
+      "stars": 4
+    },
+    {
+      "name": "Agent Venom",
+      "class": "Skill",
+      "pi": 4614,
+      "stars": 4
+    },
+    {
+      "name": "Electro",
+      "class": "Science",
+      "pi": 4602,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man Miles",
+      "class": "Science",
+      "pi": 4368,
+      "stars": 4
+    },
+    {
+      "name": "Captain America WWII",
+      "class": "Science",
+      "pi": 4273,
+      "stars": 4
+    },
+    {
+      "name": "Thor",
+      "class": "Cosmic",
+      "pi": 4263,
+      "stars": 4
+    },
+    {
+      "name": "Magik",
+      "class": "Mystic",
+      "pi": 4234,
+      "stars": 4
+    },
+    {
+      "name": "Abomination",
+      "class": "Science",
+      "pi": 4196,
+      "stars": 4
     },
     {
       "name": "Magneto",
       "class": "Mutant",
-      "pi": 4077,
+      "pi": 4153,
       "stars": 5
     },
     {
       "name": "Storm",
       "class": "Mutant",
-      "pi": 4054,
+      "pi": 4141,
+      "stars": 5
+    },
+    {
+      "name": "Elektra",
+      "class": "Skill",
+      "pi": 4047,
+      "stars": 4
+    },
+    {
+      "name": "Magik",
+      "class": "Mystic",
+      "pi": 4045,
       "stars": 5
     },
     {
       "name": "Captain Marvel",
       "class": "Cosmic",
-      "pi": 3926,
+      "pi": 4002,
       "stars": 5
     },
     {
@@ -56,7 +164,7 @@
       "stars": 5
     },
     {
-      "name": "Rhinon",
+      "name": "Rhino",
       "class": "Science",
       "pi": 3718,
       "stars": 5

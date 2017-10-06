@@ -16,6 +16,12 @@
     },
     {
       "filename": "data/mrblerch.json"
+    },
+    {
+      "filename": "data/waz.json"
+    },
+    {
+      "filename": "data/goblin.json"
     }
   ]
 }

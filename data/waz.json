@@ -1,0 +1,125 @@
+{
+  "id": "waz",
+  "champs": [
+    {
+      "name": "Thor Lady",
+      "class": "Mystic",
+      "pi": 1478,
+      "stars": 4
+    },
+    {
+      "name": "Deadpool X-Factor",
+      "class": "Mutant",
+      "pi": 1466,
+      "stars": 4
+    },
+    {
+      "name": "Cyclops",
+      "class": "Mutant",
+      "pi": 1443,
+      "stars": 4
+    },
+    {
+      "name": "Joe Fixit",
+      "class": "Science",
+      "pi": 1421,
+      "stars": 4
+    },
+    {
+      "name": "Daredevil",
+      "class": "Skill",
+      "pi": 1415,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man",
+      "class": "Science",
+      "pi": 1394,
+      "stars": 4
+    },
+    {
+      "name": "Black Panther",
+      "class": "Skill",
+      "pi": 1352,
+      "stars": 4
+    },
+    {
+      "name": "Hawkeye",
+      "class": "Skill",
+      "pi": 1343,
+      "stars": 4
+    },
+    {
+      "name": "Doctor Voodo",
+      "class": "Mystic",
+      "pi": 6161,
+      "stars": 4
+    },
+    {
+      "name": "Gwenpool",
+      "class": "Skill",
+      "pi": 6121,
+      "stars": 4
+    },
+    {
+      "name": "Guillotine",
+      "class": "Mystic",
+      "pi": 6187,
+      "stars": 5
+    },
+    {
+      "name": "Spider-Man",
+      "class": "Science",
+      "pi": 5245,
+      "stars": 5
+    },
+    {
+      "name": "Agent Venom",
+      "class": "Skill",
+      "pi": 4392,
+      "stars": 4
+    },
+    {
+      "name": "Falcon",
+      "class": "Skill",
+      "pi": 4365,
+      "stars": 4
+    },
+    {
+      "name": "Black Panther CW",
+      "class": "Skill",
+      "pi": 4251,
+      "stars": 4
+    },
+    {
+      "name": "Mordo",
+      "class": "Mystic",
+      "pi": 4167,
+      "stars": 4
+    },
+    {
+      "name": "Kingpin",
+      "class": "Skill",
+      "pi": 3895,
+      "stars": 4
+    },
+    {
+      "name": "Star Lord",
+      "class": "Tech",
+      "pi": 3669,
+      "stars": 5
+    },
+    {
+      "name": "The Hood",
+      "class": "Mystic",
+      "pi": 2087,
+      "stars": 4
+    },
+    {
+      "name": "Gwenpool",
+      "class": "Skill",
+      "pi": 6121,
+      "stars": 4
+    }
+  ]
+}

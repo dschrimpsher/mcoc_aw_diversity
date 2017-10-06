@@ -21,8 +21,8 @@ class BG(object):
         temp = 'BG ' + self.id + '\n'
         temp += pprint.pformat(self.chosen)
         temp += '\n'
-        for p in self.players:
-                temp += '  ' + p.__str__()
+        # for p in self.players:
+        #         temp += '  ' + p.__str__()
         temp += '\n'
         temp += 'Power Rating: %d' % self.power()
         return temp

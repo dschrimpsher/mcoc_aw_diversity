@@ -1,0 +1,246 @@
+{
+  "id": "goblin",
+  "champs": [
+    {
+      "name": "Gwenpool",
+      "class": "Skill",
+      "pi": 5932,
+      "stars": 4
+    },
+    {
+      "name": "Magik",
+      "class": "Mystic",
+      "pi": 5640,
+      "stars": 4
+    },
+    {
+      "name": "Daredevil",
+      "class": "Skill",
+      "pi": 5366,
+      "stars": 4
+    },
+    {
+      "name": "Captain Marvel",
+      "class": "Cosmic",
+      "pi": 5283,
+      "stars": 4
+    },
+    {
+      "name": "Hulk",
+      "class": "Science",
+      "pi": 5167,
+      "stars": 5
+    },
+    {
+      "name": "Vision",
+      "class": "Tech",
+      "pi": 5154,
+      "stars": 4
+    },
+    {
+      "name": "Wolverine",
+      "class": "Mutant",
+      "pi": 4959,
+      "stars": 4
+    },
+    {
+      "name": "Quake",
+      "class": "Science",
+      "pi": 4525,
+      "stars": 4
+    },
+    {
+      "name": "Electro",
+      "class": "Science",
+      "pi": 4316,
+      "stars": 4
+    },
+    {
+      "name": "Thor",
+      "class": "Cosmic",
+      "pi": 4312,
+      "stars": 4
+    },
+    {
+      "name": "Civil Warrior",
+      "class": "Tech",
+      "pi": 4275,
+      "stars": 4
+    },
+    {
+      "name": "Elektra",
+      "class": "Skill",
+      "pi": 4244,
+      "stars": 4
+    },
+    {
+      "name": "Agent Venom",
+      "class": "Skill",
+      "pi": 4229,
+      "stars": 4
+    },
+    {
+      "name": "Archangel",
+      "class": "Mutant",
+      "pi": 4226,
+      "stars": 4
+    },
+    {
+      "name": "Black Panther CW",
+      "class": "Skill",
+      "pi": 4200,
+      "stars": 4
+    },
+    {
+      "name": "Magneto",
+      "class": "Mutant",
+      "pi": 4138,
+      "stars": 5
+    },
+    {
+      "name": "Ultron",
+      "class": "Tech",
+      "pi": 4028,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man Black",
+      "class": "Cosmic",
+      "pi": 4007,
+      "stars": 4
+    },
+    {
+      "name": "Wolverine X-23",
+      "class": "Mutant",
+      "pi": 3976,
+      "stars": 4
+    },
+    {
+      "name": "Abomination",
+      "class": "Science",
+      "pi": 3955,
+      "stars": 4
+    },
+    {
+      "name": "Iron Man",
+      "class": "Tech",
+      "pi": 3919,
+      "stars": 4
+    },
+    {
+      "name": "Nightcrawler",
+      "class": "Mutant",
+      "pi": 3890,
+      "stars": 4
+    },
+    {
+      "name": "Winter Soldier",
+      "class": "Skill",
+      "pi": 3887,
+      "stars": 4
+    },
+    {
+      "name": "Colossus",
+      "class": "Mutant",
+      "pi": 3848,
+      "stars": 4
+    },
+    {
+      "name": "Guillotine",
+      "class": "Mystic",
+      "pi": 3757,
+      "stars": 4
+    },
+    {
+      "name": "Iceman",
+      "class": "Mutant",
+      "pi": 3704,
+      "stars": 4
+    },
+    {
+      "name": "Hyperion",
+      "class": "Cosmic",
+      "pi": 3699,
+      "stars": 4
+    },
+    {
+      "name": "Phoenix",
+      "class": "Cosmic",
+      "pi": 3546,
+      "stars": 4
+    },
+    {
+      "name": "Thor Lady",
+      "class": "Mystic",
+      "pi": 3146,
+      "stars": 4
+    },
+    {
+      "name": "Loki",
+      "class": "Mystic",
+      "pi": 3052,
+      "stars": 4
+    },
+    {
+      "name": "Groot",
+      "class": "Cosmic",
+      "pi": 3017,
+      "stars": 4
+    },
+    {
+      "name": "Moon Knight",
+      "class": "Skill",
+      "pi": 3005,
+      "stars": 4
+    },
+    {
+      "name": "Magneto",
+      "class": "Mutant",
+      "pi": 2998,
+      "stars": 4
+    },
+    {
+      "name": "Doctor Strange",
+      "class": "Mystic",
+      "pi": 2983,
+      "stars": 4
+    },
+    {
+      "name": "Venom",
+      "class": "Cosmic",
+      "pi": 2960,
+      "stars": 4
+    },
+    {
+      "name": "Daredevil Netflix",
+      "class": "Skill",
+      "pi": 2959,
+      "stars": 4
+    },
+    {
+      "name": "Ms. Marvel KK",
+      "class": "Cosmic",
+      "pi": 2931,
+      "stars": 5
+    },
+    {
+      "name": "Captain America",
+      "class": "Science",
+      "pi": 2918,
+      "stars": 4
+    },
+    {
+      "name": "Hawkeye",
+      "class": "Skill",
+      "pi": 2915,
+      "stars": 4
+    },
+    {
+      "name": "Ant Man",
+      "class": "Science",
+      "pi": 2883,
+      "stars": 4
+    }
+
+  ]
+}
