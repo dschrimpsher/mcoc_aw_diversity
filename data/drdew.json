@@ -1,0 +1,15 @@
+{
+  "id": "drdew",
+  "champs": [
+    {
+      "name": "Star Lord",
+      "class": "Tech",
+      "pi": 7926
+    },
+    {
+      "name": "Drax",
+      "class": "Cosmic",
+      "pi": 7828
+    }
+  ]
+}
