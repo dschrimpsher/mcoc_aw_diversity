@@ -4,12 +4,104 @@
     {
       "name": "Star Lord",
       "class": "Tech",
-      "pi": 7926
+      "pi": 7926,
+      "stars": 5
     },
     {
       "name": "Drax",
       "class": "Cosmic",
-      "pi": 7828
+      "pi": 7828,
+      "stars": 5
+    },
+    {
+      "name": "Drax",
+      "class": "Cosmic",
+      "pi": 4027,
+      "stars": 4
+    },
+    {
+      "name": "Doctor Voodo",
+      "class": "Mystic",
+      "pi": 6389,
+      "stars": 4
+    },
+    {
+      "name": "Archangel",
+      "class": "Mutant",
+      "pi": 6120,
+      "stars": 4
+    },
+    {
+      "name": "Cross Bones",
+      "class": "Skill",
+      "pi": 5891,
+      "stars": 4
+    },
+    {
+      "name": "Hyperion",
+      "class": "Cosmic",
+      "pi": 5813,
+      "stars": 4
+    },
+    {
+      "name": "Electro",
+      "class": "Science",
+      "pi": 5808,
+      "stars": 4
+    },
+    {
+      "name": "Juggernaut",
+      "class": "Mystic",
+      "pi": 5740,
+      "stars": 5
+    },
+    {
+      "name": "Magik",
+      "class": "Mystic",
+      "pi": 5709,
+      "stars": 4
+    },
+    {
+      "name": "Dormammu",
+      "class": "Mystic",
+      "pi": 5655,
+      "stars": 4
+    },
+    {
+      "name": "Captain America WWII",
+      "class": "Science",
+      "pi": 5648,
+      "stars": 4
+    },
+    {
+      "name": "Ultron",
+      "class": "Tech",
+      "pi": 5642,
+      "stars": 4
+    },
+    {
+      "name": "Hawkeye",
+      "class": "Skill",
+      "pi": 5640,
+      "stars": 5
+    },
+    {
+      "name": "Scarlet Witch",
+      "class": "Mystic",
+      "pi": 5430,
+      "stars": 4
+    },
+    {
+      "name": "Black Panther",
+      "class": "Skill",
+      "pi": 5423,
+      "stars": 5
+    },
+    {
+      "name": "Wolverine",
+      "class": "Mutant",
+      "pi": 4964,
+      "stars": 4
     }
   ]
 }

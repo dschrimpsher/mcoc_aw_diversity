@@ -1,0 +1,66 @@
+{
+  "id": "rugbyplaya",
+  "champs": [
+    {
+      "name": "Ant Man",
+      "class": "Science",
+      "pi": 5586,
+      "stars": 5
+    },
+    {
+      "name": "Hulk",
+      "class": "Science",
+      "pi": 5533,
+      "stars": 5
+    },
+    {
+      "name": "Drax",
+      "class": "Cosmic",
+      "pi": 5490,
+      "stars": 5
+    },
+    {
+      "name": "Iron Fist",
+      "class": "Mystic",
+      "pi": 4102,
+      "stars": 5
+    },
+    {
+      "name": "Magneto",
+      "class": "Mutant",
+      "pi": 4077,
+      "stars": 5
+    },
+    {
+      "name": "Storm",
+      "class": "Mutant",
+      "pi": 4054,
+      "stars": 5
+    },
+    {
+      "name": "Captain Marvel",
+      "class": "Cosmic",
+      "pi": 3926,
+      "stars": 5
+    },
+    {
+      "name": "Star Lord",
+      "class": "Tech",
+      "pi": 3876,
+      "stars": 5
+    },
+    {
+      "name": "Unstopable Colossus",
+      "class": "Mystic",
+      "pi": 3799,
+      "stars": 5
+    },
+    {
+      "name": "Rhinon",
+      "class": "Science",
+      "pi": 3718,
+      "stars": 5
+    }
+
+  ]
+}

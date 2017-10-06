@@ -1,0 +1,21 @@
+{
+  "id": "bg2",
+  "players": [
+
+    {
+      "filename": "data/rugbyplaya.json"
+    },
+    {
+      "filename": "data/drdew.json"
+    },
+    {
+      "filename": "data/bhoog.json"
+    },
+    {
+      "filename": "data/samie007.json"
+    },
+    {
+      "filename": "data/mrblerch.json"
+    }
+  ]
+}

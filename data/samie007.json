@@ -1,0 +1,185 @@
+{
+  "id": "samie007",
+  "champs": [
+    {
+      "name": "Thor",
+      "class": "Cosmic",
+      "pi": 4641,
+      "stars": 4
+    },
+    {
+      "name": "Mordo",
+      "class": "Mystic",
+      "pi": 4497,
+      "stars": 4
+    },
+    {
+      "name": "Drax",
+      "class": "Cosmic",
+      "pi": 4281,
+      "stars": 4
+    },
+    {
+      "name": "Scarlet Witch",
+      "class": "Mystic",
+      "pi": 4239,
+      "stars": 4
+    },
+    {
+      "name": "Wolverine X-23",
+      "class": "Mutant",
+      "pi": 4231,
+      "stars": 4
+    },
+    {
+      "name": "Dormammu",
+      "class": "Mystic",
+      "pi": 4228,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man",
+      "class": "Science",
+      "pi": 4223,
+      "stars": 4
+    },
+    {
+      "name": "Magik",
+      "class": "Mystic",
+      "pi": 4194,
+      "stars": 4
+    },
+    {
+      "name": "Star Lord",
+      "class": "Tech",
+      "pi": 4178,
+      "stars": 4
+    },
+    {
+      "name": "Vision",
+      "class": "Tech",
+      "pi": 4062,
+      "stars": 4
+    },
+    {
+      "name": "Doctor Voodo",
+      "class": "Mystic",
+      "pi": 6685,
+      "stars": 4
+    },
+    {
+      "name": "Gwenpool",
+      "class": "Skill",
+      "pi": 6389,
+      "stars": 4
+    },
+    {
+      "name": "Hyperion",
+      "class": "Cosmic",
+      "pi": 6012,
+      "stars": 4
+    },
+    {
+      "name": "Hulk",
+      "class": "Science",
+      "pi": 5539,
+      "stars": 4
+    },
+    {
+      "name": "Punisher",
+      "class": "Skill",
+      "pi": 5473,
+      "stars": 4
+    },
+    {
+      "name": "Wolverine",
+      "class": "Mutant",
+      "pi": 5625,
+      "stars": 4
+    },
+    {
+      "name": "Captain America WWII",
+      "class": "Science",
+      "pi": 4380,
+      "stars": 4
+    },
+    {
+      "name": "Quake",
+      "class": "Science",
+      "pi": 4947,
+      "stars": 4
+    },
+    {
+      "name": "Archangel",
+      "class": "Mutant",
+      "pi": 4714,
+      "stars": 4
+    },
+    {
+      "name": "Cable",
+      "class": "Mutant",
+      "pi": 4698,
+      "stars": 4
+    },
+    {
+      "name": "Storm",
+      "class": "Mutant",
+      "pi": 8550,
+      "stars": 5
+    },
+    {
+      "name": "Gwenpool",
+      "class": "Skill",
+      "pi": 6322,
+      "stars": 5
+    },
+    {
+      "name": "Magik",
+      "class": "Mystic",
+      "pi": 4004,
+      "stars": 5
+    },
+    {
+      "name": "Black Panther",
+      "class": "Skill",
+      "pi": 3829,
+      "stars": 5
+    },
+    {
+      "name": "Hawkeye",
+      "class": "Skill",
+      "pi": 3791,
+      "stars": 5
+    },
+    {
+      "name": "Rocket Raccoon",
+      "class": "Tech",
+      "pi": 3296,
+      "stars": 5
+    },
+    {
+      "name": "Winter Soldier",
+      "class": "Skill",
+      "pi": 2983,
+      "stars": 5
+    },
+    {
+      "name": "Unstopable Colossus",
+      "class": "Mystic",
+      "pi": 2894,
+      "stars": 5
+    },
+    {
+      "name": "Captain America",
+      "class": "Science",
+      "pi": 2852,
+      "stars": 5
+    },
+    {
+      "name": "Ant Man",
+      "class": "Science",
+      "pi": 2794,
+      "stars": 5
+    }
+  ]
+}
