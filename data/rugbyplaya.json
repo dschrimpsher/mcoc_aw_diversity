@@ -11,7 +11,8 @@
       "name": "Ghost Rider",
       "class": "Mystic",
       "pi": 6579,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Karnak",
@@ -29,7 +30,8 @@
       "name": "Black Widow",
       "class": "Skill",
       "pi": 5966,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Daredevil",

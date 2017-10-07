@@ -1,0 +1,281 @@
+{
+  "id": "ajkay",
+  "champs": [
+    {
+      "name": "Magik",
+      "class": "Mystic",
+      "pi": 8722,
+      "stars": 5
+    },
+    {
+      "name": "Hyperion",
+      "class": "Cosmic",
+      "pi": 8457,
+      "stars": 5
+    },
+    {
+      "name": "Mordo",
+      "class": "Mystic",
+      "pi": 6797,
+      "stars": 4
+    },
+    {
+      "name": "Quake",
+      "class": "Science",
+      "pi": 6361,
+      "stars": 4
+    },
+    {
+      "name": "Gwenpool",
+      "class": "Skill",
+      "pi": 6250,
+      "stars": 4
+    },
+    {
+      "name": "Archangel",
+      "class": "Mutant",
+      "pi": 6116,
+      "stars": 4,
+      "attack": true
+    },
+    {
+      "name": "Nightcrawler",
+      "class": "Mutant",
+      "pi": 5938,
+      "stars": 4
+    },
+    {
+      "name": "Yellow Jacket",
+      "class": "Science",
+      "pi": 5910,
+      "stars": 4
+    },
+    {
+      "name": "Black Widow",
+      "class": "Skill",
+      "pi": 5795,
+      "stars": 4
+    },
+    {
+      "name": "Captain America WWII",
+      "class": "Science",
+      "pi": 5773,
+      "stars": 4,
+      "attack": true
+    },
+    {
+      "name": "Ultron",
+      "class": "Tech",
+      "pi": 5643,
+      "stars": 4,
+      "attack": true
+    },
+    {
+      "name": "Hawkeye",
+      "class": "Skill",
+      "pi": 5605,
+      "stars": 5
+    },
+    {
+      "name": "Star Lord",
+      "class": "Tech",
+      "pi": 5458,
+      "stars": 4,
+      "attack": true
+    },
+    {
+      "name": "Abomination",
+      "class": "Science",
+      "pi": 5450,
+      "stars": 4
+    },
+    {
+      "name": "Vision",
+      "class": "Tech",
+      "pi": 5381,
+      "stars": 4
+    },
+    {
+      "name": "Wolverine",
+      "class": "Mutant",
+      "pi": 5126,
+      "stars": 4,
+      "attack": true
+    },
+    {
+      "name": "Iceman",
+      "class": "Mutant",
+      "pi": 5079,
+      "stars": 4
+    },
+    {
+      "name": "Phoenix",
+      "class": "Cosmic",
+      "pi": 4986,
+      "stars": 4
+    },
+    {
+      "name": "Ghost Rider",
+      "class": "Mystic",
+      "pi": 4717,
+      "stars": 4
+    },
+    {
+      "name": "Electro",
+      "class": "Science",
+      "pi": 4534,
+      "stars": 4
+    },
+    {
+      "name": "Thor",
+      "class": "Cosmic",
+      "pi": 4494,
+      "stars": 4
+    },
+    {
+      "name": "Nebula",
+      "class": "Tech",
+      "pi": 4210,
+      "stars": 4
+    },
+    {
+      "name": "Doctor Voodo",
+      "class": "Mystic",
+      "pi": 4209,
+      "stars": 4
+    },
+    {
+      "name": "Daredevil",
+      "class": "Skill",
+      "pi": 4180,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man Black",
+      "class": "Cosmic",
+      "pi": 4177,
+      "stars": 4
+    },
+    {
+      "name": "Magneto",
+      "class": "Mutant",
+      "pi": 4155,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man",
+      "class": "Science",
+      "pi": 4099,
+      "stars": 4
+    },
+    {
+      "name": "Doctor Strange",
+      "class": "Mystic",
+      "pi": 4075,
+      "stars": 4
+    },
+    {
+      "name": "Juggernaut",
+      "class": "Mystic",
+      "pi": 3937,
+      "stars": 4
+    },
+    {
+      "name": "Storm",
+      "class": "Mutant",
+      "pi": 3931,
+      "stars": 5
+    },
+    {
+      "name": "Loki",
+      "class": "Mystic",
+      "pi": 3591,
+      "stars": 4
+    },
+    {
+      "name": "Civil Warrior",
+      "class": "Tech",
+      "pi": 3433,
+      "stars": 4
+    },
+    {
+      "name": "Rocket Raccoon",
+      "class": "Tech",
+      "pi": 3396,
+      "stars": 4
+    },
+    {
+      "name": "Falcon",
+      "class": "Skill",
+      "pi": 3376,
+      "stars": 4
+    },
+    {
+      "name": "Loki",
+      "class": "Mystic",
+      "pi": 3372,
+      "stars": 5
+    },
+    {
+      "name": "Deadpool X-Factor",
+      "class": "Mutant",
+      "pi": 3326,
+      "stars": 4
+    },
+    {
+      "name": "Red Hulk",
+      "class": "Science",
+      "pi": 3320,
+      "stars": 4
+    },
+    {
+      "name": "Hulkbuster",
+      "class": "Tech",
+      "pi": 3319,
+      "stars": 4
+    },
+    {
+      "name": "Guillotine",
+      "class": "Mystic",
+      "pi": 3318,
+      "stars": 4
+    },
+    {
+      "name": "Elektra",
+      "class": "Skill",
+      "pi": 3318,
+      "stars": 4
+    },
+    {
+      "name": "Agent Venom",
+      "class": "Skill",
+      "pi": 3304,
+      "stars": 4
+    },
+    {
+      "name": "Black Panther CW",
+      "class": "Skill",
+      "pi": 3301,
+      "stars": 4
+    },
+    {
+      "name": "Super Iron Man",
+      "class": "Cosmic",
+      "pi": 3295,
+      "stars": 4
+    },
+    {
+      "name": "Thor Lady",
+      "class": "Mystic",
+      "pi": 3256,
+      "stars": 4
+    },
+    {
+      "name": "Iron Patriot",
+      "class": "Tech",
+      "pi": 3231,
+      "stars": 4
+    }
+
+  ]
+}

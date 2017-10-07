@@ -65,13 +65,15 @@
       "name": "Doctor Voodo",
       "class": "Mystic",
       "pi": 6685,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Gwenpool",
       "class": "Skill",
       "pi": 6389,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Hyperion",
@@ -95,7 +97,8 @@
       "name": "Wolverine",
       "class": "Mutant",
       "pi": 5625,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Captain America WWII",

@@ -17,13 +17,15 @@
       "name": "Daredevil",
       "class": "Skill",
       "pi": 5366,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Captain Marvel",
       "class": "Cosmic",
       "pi": 5283,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Hulk",
@@ -41,7 +43,8 @@
       "name": "Wolverine",
       "class": "Mutant",
       "pi": 4959,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Quake",

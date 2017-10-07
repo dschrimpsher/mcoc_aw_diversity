@@ -21,8 +21,8 @@ class BG(object):
         temp = 'BG ' + self.id + '\n'
         temp += pprint.pformat(self.chosen)
         temp += '\n'
-        # for p in self.players:
-        #         temp += '  ' + p.__str__()
+        for p in self.players:
+                temp += '  ' + p.__str__()
         temp += '\n'
         temp += 'Power Rating: %d' % self.power()
         return temp
@@ -38,24 +38,17 @@ class BG(object):
             for p in self.players:
                  if (p.added < 5):
                     for c in p.champs:
-                        exists = list(filter(lambda existingCharacter: existingCharacter["character"] == c.name, self.chosen))
-                        if len(exists) == 0:
-                            self.chosen.append({
-                                "character": c.name,
-                                "player": p.id,
-                                "pi": c.pi
-                            })
-                            p.added += 1
-                            if p.added == 5:
-                                break;
+                        if (c.attack == True):
+                            continue
                         else:
-                            if (c.pi > exists[0]['pi']):
-                                self.chosen[:] = [d for d in self.chosen if d.get('character') != c.name]
-                                #remove added from the player
-                                otherPlayer = list(filter(lambda otherPlayer: otherPlayer.id == exists[0]['player'], self.players))
-                                otherPlayer[0].added -= 1
-
+                            exists = list(filter(lambda existingCharacter: existingCharacter["character"] == c.name, self.chosen))
+                            if len(exists) == 0:
                                 self.chosen.append({
+                                    "character": c.name,
+                                    "player": p.id,
+                                    "pi": c.pi
+                                })
+                                p.chosen.append({
                                     "character": c.name,
                                     "player": p.id,
                                     "pi": c.pi
@@ -63,3 +56,26 @@ class BG(object):
                                 p.added += 1
                                 if p.added == 5:
                                     break;
+                            else:
+                                if (c.pi > exists[0]['pi']):
+                                    self.chosen[:] = [d for d in self.chosen if d.get('character') != c.name]
+
+                                    #remove added from the player
+                                    otherPlayer = list(filter(lambda otherPlayer: otherPlayer.id == exists[0]['player'], self.players))
+                                    otherPlayer[0].added -= 1
+                                    otherPlayer[0].chosen[:] = [d for d in otherPlayer[0].chosen if d.get('character') != c.name]
+
+                                    p.chosen.append({
+                                        "character": c.name,
+                                        "player": p.id,
+                                        "pi": c.pi
+                                    })
+                                    self.chosen.append({
+                                        "character": c.name,
+                                        "player": p.id,
+                                        "pi": c.pi
+                                    })
+                                    p.added += 1
+                                    if p.added == 5:
+                                        break;
+        self.chosen = sorted(self.chosen, key=lambda chosen: chosen['pi'], reverse=True)

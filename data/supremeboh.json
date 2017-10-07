@@ -1,0 +1,250 @@
+{
+  "id": "supremeboh",
+  "champs": [
+    {
+      "name": "Star Lord",
+      "class": "Tech",
+      "pi": 7488,
+      "stars": 5,
+      "attack": true
+    },
+    {
+      "name": "Thor",
+      "class": "Cosmic",
+      "pi": 5839,
+      "stars": 4,
+      "attack": true
+    },
+    {
+      "name": "Hyperion",
+      "class": "Cosmic",
+      "pi": 5783,
+      "stars": 4,
+      "attack": true
+    },
+    {
+      "name": "Hawkeye",
+      "class": "Skill",
+      "pi": 5468,
+      "stars": 5,
+      "attack": true
+    },
+    {
+      "name": "Wolverine",
+      "class": "Mutant",
+      "pi": 5076,
+      "stars": 4,
+      "attack": true
+    },
+    {
+      "name": "Mordo",
+      "class": "Mystic",
+      "pi": 4685,
+      "stars": 4
+    },
+    {
+      "name": "Karnak",
+      "class": "Skill",
+      "pi": 4501,
+      "stars": 4
+    },
+    {
+      "name": "Rouge",
+      "class": "Mutant",
+      "pi": 4523,
+      "stars": 4
+    },
+    {
+      "name": "Cross Bones",
+      "class": "Skill",
+      "pi": 4430,
+      "stars": 4
+    },
+    {
+      "name": "Electro",
+      "class": "Science",
+      "pi": 4183,
+      "stars": 4
+    },
+    {
+      "name": "Iron Fist",
+      "class": "Mystic",
+      "pi": 4149,
+      "stars": 4
+    },
+    {
+      "name": "Magneto White",
+      "class": "Mutant",
+      "pi": 4124,
+      "stars": 4
+    },
+    {
+      "name": "Gamora",
+      "class": "Cosmic",
+      "pi": 4122,
+      "stars": 4
+    },
+    {
+      "name": "Ultron",
+      "class": "Tech",
+      "pi": 4081,
+      "stars": 4
+    },
+    {
+      "name": "Captain America",
+      "class": "Science",
+      "pi": 3996,
+      "stars": 4
+    },
+    {
+      "name": "Magneto",
+      "class": "Mutant",
+      "pi": 3962,
+      "stars": 4
+    },
+    {
+      "name": "Drax",
+      "class": "Cosmic",
+      "pi": 3952,
+      "stars": 4
+    },
+    {
+      "name": "Hulk",
+      "class": "Science",
+      "pi": 3937,
+      "stars": 4
+    },
+    {
+      "name": "Guillotine",
+      "class": "Mystic",
+      "pi": 3936,
+      "stars": 5
+    },
+    {
+      "name": "Elektra",
+      "class": "Skill",
+      "pi": 3892,
+      "stars": 5
+    },
+    {
+      "name": "Scarlet Witch",
+      "class": "Mystic",
+      "pi": 3870,
+      "stars": 4
+    },
+    {
+      "name": "Cyclops",
+      "class": "Mutant",
+      "pi": 3824,
+      "stars": 5
+    },
+    {
+      "name": "Storm",
+      "class": "Mutant",
+      "pi": 3799,
+      "stars": 5
+    },
+    {
+      "name": "Magik",
+      "class": "Mystic",
+      "pi": 3789,
+      "stars": 5
+    },
+    {
+      "name": "Hulk",
+      "class": "Science",
+      "pi": 3755,
+      "stars": 5
+    },
+    {
+      "name": "Iron Man",
+      "class": "Tech",
+      "pi": 3721,
+      "stars": 5
+    },
+    {
+      "name": "Colossus",
+      "class": "Mutant",
+      "pi": 3652,
+      "stars": 5
+    },
+    {
+      "name": "Unstopable Colossus",
+      "class": "Mystic",
+      "pi": 3647,
+      "stars": 5
+    },
+    {
+      "name": "Venom",
+      "class": "Cosmic",
+      "pi": 3646,
+      "stars": 5
+    },
+    {
+      "name": "Black Panther",
+      "class": "Skill",
+      "pi": 3588,
+      "stars": 5
+    },
+    {
+      "name": "Doctor Strange",
+      "class": "Mystic",
+      "pi": 3582,
+      "stars": 4
+    },
+    {
+      "name": "Falcon",
+      "class": "Skill",
+      "pi": 3295,
+      "stars": 4
+    },
+    {
+      "name": "Beast",
+      "class": "Mutant",
+      "pi": 3191,
+      "stars": 4
+    },
+    {
+      "name": "Hulkbuster",
+      "class": "Tech",
+      "pi": 3166,
+      "stars": 4
+    },
+    {
+      "name": "Ms. Marvel KK",
+      "class": "Cosmic",
+      "pi": 3131,
+      "stars": 4
+    },
+    {
+      "name": "Super Iron Man",
+      "class": "Cosmic",
+      "pi": 3130,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man Miles",
+      "class": "Science",
+      "pi": 3122,
+      "stars": 4
+    },
+    {
+      "name": "Cyclops",
+      "class": "Mutant",
+      "pi": 3089,
+      "stars": 4
+    },
+    {
+      "name": "Ghost Rider",
+      "class": "Mystic",
+      "pi": 3057,
+      "stars": 4
+    },
+    {
+      "name": "Old Man Logan",
+      "class": "Mutant",
+      "pi": 3033,
+      "stars": 4
+    }
+  ]
+}

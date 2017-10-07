@@ -13,12 +13,24 @@ class Player(object):
             data = json.load(data_file)
             self.id = data['id']
             for datum in data['champs']:
-                self.champs.append(character.Character(datum['name'], datum['class'], datum['pi'], datum['stars']))
+                if 'attack' in datum:
+                    self.champs.append(character.Character(datum['name'], datum['class'], datum['pi'], datum['stars'], datum['attack']))
+                else:
+                    self.champs.append(character.Character(datum['name'], datum['class'], datum['pi'], datum['stars']))
+
             self.champs = sorted(self.champs, key=lambda champ: champ.pi, reverse=True)
 
 
+    def power(self):
+        power = 0
+        for i in self.chosen:
+            power += i['pi']
+        return power
+
     def __str__(self):
         temp = 'Player ' + self.id + '\n'
+        temp += pprint.pformat(self.chosen)
+        temp += '\nPower: %d' % self.power()
         for champ in self.champs:
                 temp += champ.__str__()
         return temp

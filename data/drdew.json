@@ -5,7 +5,8 @@
       "name": "Star Lord",
       "class": "Tech",
       "pi": 7926,
-      "stars": 5
+      "stars": 5,
+      "attack": true
     },
     {
       "name": "Drax",
@@ -23,13 +24,15 @@
       "name": "Doctor Voodo",
       "class": "Mystic",
       "pi": 6389,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Archangel",
       "class": "Mutant",
       "pi": 6120,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Cross Bones",

@@ -64,13 +64,15 @@
       "name": "Wolverine X-23",
       "class": "Mutant",
       "pi": 5953,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Scarlet Witch",
       "class": "Mystic",
       "pi": 5694,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Vision",
@@ -154,7 +156,8 @@
       "name": "Doctor Voodo",
       "class": "Mystic",
       "pi": 6693,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Gwenpool",
@@ -166,13 +169,15 @@
       "name": "Thor",
       "class": "Cosmic",
       "pi": 6272,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Black Widow",
       "class": "Skill",
       "pi": 6071,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Captain America WWII",
@@ -184,7 +189,8 @@
       "name": "Star Lord",
       "class": "Tech",
       "pi": 8581,
-      "stars": 5
+      "stars": 5,
+      "attack": true
     },
     {
       "name": "Storm",

@@ -1,9 +1,10 @@
 class Character:
-    def __init__(self, name, classType, pi, stars):
+    def __init__(self, name, classType, pi, stars, attack=False):
         self.name = name
         self.classType = classType
         self.pi = pi
         self.stars = stars
+        self.attack = attack
 
     def __str__(self):
         padding = 25 - len(self.name)
@@ -18,5 +19,5 @@ class Character:
         temp +=  "%d " % self.pi
         for i in range(self.stars):
             temp += "*"
-        temp += '\n'
+        temp += ' \t%s\n'%self.attack
         return temp

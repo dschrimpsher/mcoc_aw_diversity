@@ -59,7 +59,8 @@
       "name": "Ultron",
       "class": "Tech",
       "pi": 5545,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Agent Venom",
