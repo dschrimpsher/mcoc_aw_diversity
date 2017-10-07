@@ -1,0 +1,467 @@
+{
+  "id": "m3n3",
+  "champs": [
+    {
+      "name": "Spider-Gwen",
+      "class": "Science",
+      "pi": 3687,
+      "stars": 5
+    },
+    {
+      "name": "Iron Man",
+      "class": "Tech",
+      "pi": 3684,
+      "stars": 5
+    },
+    {
+      "name": "Winter Soldier",
+      "class": "Skill",
+      "pi": 3650,
+      "stars": 5
+    },
+    {
+      "name": "Juggernaut",
+      "class": "Mystic",
+      "pi": 3579,
+      "stars": 5
+    },
+    {
+      "name": "Black Panther",
+      "class": "Skill",
+      "pi": 3554,
+      "stars": 5
+    },
+    {
+      "name": "Rhino",
+      "class": "Science",
+      "pi": 3511,
+      "stars": 5
+    },
+    {
+      "name": "Old Man Logan",
+      "class": "Mutant",
+      "pi": 2171,
+      "stars": 5
+    },
+    {
+      "name": "Punisher",
+      "class": "Skill",
+      "pi": 993,
+      "stars": 4
+    },
+    {
+      "name": "Beast",
+      "class": "Mutant",
+      "pi": 2740,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man Miles",
+      "class": "Science",
+      "pi": 2712,
+      "stars": 4
+    },
+    {
+      "name": "Daredevil",
+      "class": "Skill",
+      "pi": 2703,
+      "stars": 4
+    },
+    {
+      "name": "Drax",
+      "class": "Cosmic",
+      "pi": 2670,
+      "stars": 4
+    },
+    {
+      "name": "Wolverine",
+      "class": "Mutant",
+      "pi": 2612,
+      "stars": 4
+    },
+    {
+      "name": "Captain America",
+      "class": "Science",
+      "pi": 2595,
+      "stars": 4
+    },
+    {
+      "name": "Iron Patriot",
+      "class": "Tech",
+      "pi": 4098,
+      "stars": 5
+    },
+    {
+      "name": "Drax",
+      "class": "Cosmic",
+      "pi": 3995,
+      "stars": 5
+    },
+    {
+      "name": "Guillotine",
+      "class": "Mystic",
+      "pi": 3866,
+      "stars": 5
+    },
+    {
+      "name": "Cyclops",
+      "class": "Mutant",
+      "pi": 3787,
+      "stars": 5
+    },
+    {
+      "name": "Black Panther",
+      "class": "Skill",
+      "pi": 2907,
+      "stars": 4
+    },
+    {
+      "name": "Red Hulk",
+      "class": "Science",
+      "pi": 2880,
+      "stars": 4
+    },
+    {
+      "name": "Unstopable Colossus",
+      "class": "Mystic",
+      "pi": 2879,
+      "stars": 4
+    },
+    {
+      "name": "Nebula",
+      "class": "Tech",
+      "pi": 2869,
+      "stars": 4
+    },
+    {
+      "name": "Hyperion",
+      "class": "Cosmic",
+      "pi": 2839,
+      "stars": 4
+    },
+    {
+      "name": "Super Iron Man",
+      "class": "Cosmic",
+      "pi": 2837,
+      "stars": 4
+    },
+    {
+      "name": "Rocket Raccoon",
+      "class": "Tech",
+      "pi": 2831,
+      "stars": 4
+    },
+    {
+      "name": "Ant Man",
+      "class": "Science",
+      "pi": 2820,
+      "stars": 4
+    },
+    {
+      "name": "Old Man Logan",
+      "class": "Mutant",
+      "pi": 2749,
+      "stars": 4
+    },
+    {
+      "name": "Cyclops",
+      "class": "Mutant",
+      "pi": 2744,
+      "stars": 4
+    },
+    {
+      "name": "Gambit",
+      "class": "Mutant",
+      "pi": 3303,
+      "stars": 4
+    },
+    {
+      "name": "Thor Lady",
+      "class": "Mystic",
+      "pi": 3179,
+      "stars": 4
+    },
+    {
+      "name": "Joe Fixit",
+      "class": "Science",
+      "pi": 3104,
+      "stars": 4
+    },
+    {
+      "name": "Magneto White",
+      "class": "Mutant",
+      "pi": 3078,
+      "stars": 4
+    },
+    {
+      "name": "Iron Patriot",
+      "class": "Tech",
+      "pi": 3069,
+      "stars": 4
+    },
+    {
+      "name": "Karnak",
+      "class": "Skill",
+      "pi": 3062,
+      "stars": 4
+    },
+    {
+      "name": "Gamora",
+      "class": "Cosmic",
+      "pi": 3035,
+      "stars": 4
+    },
+    {
+      "name": "Captain Marvel",
+      "class": "Cosmic",
+      "pi": 3989,
+      "stars": 4
+    },
+    {
+      "name": "Luke Cage",
+      "class": "Science",
+      "pi": 2959,
+      "stars": 4
+    },
+    {
+      "name": "Angela",
+      "class": "Cosmic",
+      "pi": 2931,
+      "stars": 4
+    },
+    {
+      "name": "Magik",
+      "class": "Mystic",
+      "pi": 3933,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man",
+      "class": "Science",
+      "pi": 3917,
+      "stars": 4
+    },
+    {
+      "name": "Iron Man",
+      "class": "Tech",
+      "pi": 3912,
+      "stars": 4
+    },
+    {
+      "name": "Abomination",
+      "class": "Science",
+      "pi": 3892,
+      "stars": 4
+    },
+    {
+      "name": "Hawkeye",
+      "class": "Skill",
+      "pi": 3858,
+      "stars": 4
+    },
+    {
+      "name": "War Machine",
+      "class": "Tech",
+      "pi": 3847,
+      "stars": 4
+    },
+    {
+      "name": "Juggernaut",
+      "class": "Mystic",
+      "pi": 3755,
+      "stars": 4
+    },
+    {
+      "name": "Magik",
+      "class": "Mystic",
+      "pi": 6232,
+      "stars": 5
+    },
+    {
+      "name": "Captain Marvel",
+      "class": "Cosmic",
+      "pi": 5616,
+      "stars": 5
+    },
+    {
+      "name": "Phoenix",
+      "class": "Cosmic",
+      "pi": 3582,
+      "stars": 4
+    },
+    {
+      "name": "Hulkbuster",
+      "class": "Tech",
+      "pi": 4112,
+      "stars": 4
+    },
+    {
+      "name": "Magneto",
+      "class": "Mutant",
+      "pi": 4047,
+      "stars": 4
+    },
+    {
+      "name": "Ms. Marvel",
+      "class": "Yellow Jacket",
+      "pi": 4028,
+      "stars": 4
+    },
+    {
+      "name": "Dr. Strange",
+      "class": "Mystic",
+      "pi": 4012,
+      "stars": 4
+    },
+    {
+      "name": "Colossus",
+      "class": "Mutant",
+      "pi": 4006,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man Black",
+      "class": "Cosmic",
+      "pi": 3981,
+      "stars": 4
+    },
+    {
+      "name": "Moon Knight",
+      "class": "Skill",
+      "pi": 3981,
+      "stars": 4
+    },
+    {
+      "name": "Black Bolt",
+      "class": "Cosmic",
+      "pi": 3954,
+      "stars": 4
+    },
+    {
+      "name": "Venom",
+      "class": "Cosmic",
+      "pi": 3942,
+      "stars": 4
+    },
+    {
+      "name": "Star Lord",
+      "class": "Tech",
+      "pi": 6804,
+      "stars": 5
+    },
+    {
+      "name": "Loki",
+      "class": "Mystic",
+      "pi": 4616,
+      "stars": 4
+    },
+    {
+      "name": "Civil Warrior",
+      "class": "Tech",
+      "pi": 4311,
+      "stars": 4
+    },
+    {
+      "name": "Deadpool X-Factor",
+      "class": "Mutant",
+      "pi": 4303,
+      "stars": 4
+    },
+    {
+      "name": "Electro",
+      "class": "Science",
+      "pi": 4294,
+      "stars": 4
+    },
+    {
+      "name": "Ms. Marvel KK",
+      "class": "Cosmic",
+      "pi": 4225,
+      "stars": 4
+    },
+    {
+      "name": "Cross Bones",
+      "class": "Skill",
+      "pi": 4210,
+      "stars": 4
+    },
+    {
+      "name": "Elektra",
+      "class": "Skill",
+      "pi": 4189,
+      "stars": 4
+    },
+    {
+      "name": "Iron Fist",
+      "class": "Mystic",
+      "pi": 4176,
+      "stars": 4
+    },
+    {
+      "name": "Venompool",
+      "class": "Cosmic",
+      "pi": 4147,
+      "stars": 4
+    },
+    {
+      "name": "Gwenpool",
+      "class": "Skill",
+      "pi": 5842,
+      "stars": 4
+    },
+    {
+      "name": "Thor",
+      "class": "Cosmic",
+      "pi": 5793,
+      "stars": 4
+    },
+    {
+      "name": "Captain America WWII",
+      "class": "Science",
+      "pi": 5669,
+      "stars": 4
+    },
+    {
+      "name": "Black Widow",
+      "class": "Skill",
+      "pi": 5502,
+      "stars": 4
+    },
+    {
+      "name": "Wolverine X-23",
+      "class": "Mutant",
+      "pi": 5496,
+      "stars": 4
+    },
+    {
+      "name": "Vision",
+      "class": "Tech",
+      "pi": 5384,
+      "stars": 4
+    },
+    {
+      "name": "Storm",
+      "class": "Mutant",
+      "pi": 5372,
+      "stars": 4
+    },
+    {
+      "name": "Hulk",
+      "class": "Science",
+      "pi": 5306,
+      "stars": 4
+    },
+    {
+      "name": "Scarlet Witch",
+      "class": "Mystic",
+      "pi": 5196,
+      "stars": 4
+    },
+    {
+      "name": "Winter Soldier",
+      "class": "Skill",
+      "pi": 5164,
+      "stars": 4
+    }
+  ]
+}

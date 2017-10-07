@@ -241,6 +241,44 @@
       "class": "Tech",
       "pi": 2935,
       "stars": 5
+    },
+    {
+      "name": "Daredevil",
+      "class": "Skill",
+      "pi": 5627,
+      "stars": 4
+    },
+    {
+      "name": "Ultron",
+      "class": "Tech",
+      "pi": 5545,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man",
+      "class": "Science",
+      "pi": 5480,
+      "stars": 4
+    },
+    {
+      "name": "Hulk",
+      "class": "Science",
+      "pi": 5467,
+      "stars": 4
+    },
+    {
+      "name": "Scarlet Witch",
+      "class": "Mystic",
+      "pi": 5457,
+      "stars": 4,
+      "attack": true
+    },
+    {
+      "name": "Wolverine",
+      "class": "Mutant",
+      "pi": 5208,
+      "stars": 4,
+      "attack": true
     }
   ]
 }

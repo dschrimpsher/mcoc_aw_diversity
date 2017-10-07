@@ -16,11 +16,13 @@ class BG(object):
                 newPlayer = player.Player()
                 newPlayer.load(datum['filename'])
                 self.players.append(newPlayer)
+        self.players = sorted(self.players, key=lambda player: player.id, reverse=False)
+
 
     def __str__(self):
         temp = 'BG ' + self.id + '\n'
-        temp += pprint.pformat(self.chosen)
-        temp += '\n'
+        # temp += pprint.pformat(self.chosen)
+        # temp += '\n'
         for p in self.players:
                 temp += '  ' + p.__str__()
         temp += '\n'
@@ -78,4 +80,4 @@ class BG(object):
                                     p.added += 1
                                     if p.added == 5:
                                         break;
-        self.chosen = sorted(self.chosen, key=lambda chosen: chosen['pi'], reverse=True)
+        self.chosen = sorted(self.chosen, key=lambda chosen: chosen['player'], reverse=False)

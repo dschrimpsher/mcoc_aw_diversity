@@ -5,7 +5,8 @@
       "name": "Doctor Voodo",
       "class": "Mystic",
       "pi": 6672,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Ghost Rider",

@@ -1,5 +1,6 @@
 import character
 import json
+import pprint
 
 class Player(object):
     def __init__(self):
@@ -29,8 +30,9 @@ class Player(object):
 
     def __str__(self):
         temp = 'Player ' + self.id + '\n'
-        temp += pprint.pformat(self.chosen)
-        temp += '\nPower: %d' % self.power()
-        for champ in self.champs:
-                temp += champ.__str__()
+        temp += pprint.pformat(self.chosen, indent=5)
+        temp += '\n\tPower: %d' % self.power()
+        temp += '\n'
+        # for champ in self.champs:
+        #         temp += champ.__str__()
         return temp
