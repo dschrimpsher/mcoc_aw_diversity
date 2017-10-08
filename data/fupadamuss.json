@@ -1,0 +1,285 @@
+{
+
+  "id": "fupadamuss",
+  "champs": [
+  {
+    "name": "Quake",
+    "class": "Science",
+    "pi": 6575,
+    "stars": 4
+  },
+  {
+    "name": "Doctor Voodo",
+    "class": "Mystic",
+    "pi": 6505,
+    "stars": 4
+  },
+  {
+    "name": "Electro",
+    "class": "Science",
+    "pi": 6156,
+    "stars": 4
+  },
+  {
+    "name": "Iron Fist",
+    "class": "Mystic",
+    "pi": 6063,
+    "stars": 4
+  },
+  {
+    "name": "Thor",
+    "class": "Cosmic",
+    "pi": 6041,
+    "stars": 4
+  },
+  {
+    "name": "Black Widow",
+    "class": "Skill",
+    "pi": 5891,
+    "stars": 4
+  },
+  {
+    "name": "Ultron",
+    "class": "Tech",
+    "pi": 5891,
+    "stars": 4
+  },
+  {
+    "name": "Ultron",
+    "class": "Tech",
+    "pi": 5853,
+    "stars": 4
+  },
+  {
+    "name": "Captain America WWII",
+    "class": "Science",
+    "pi": 5852,
+    "stars": 4
+  },
+  {
+    "name": "Iceman",
+    "class": "Mutant",
+    "pi": 5820,
+    "stars": 4
+  },
+  {
+    "name": "Cyclops",
+    "class": "Mutant",
+    "pi": 5750,
+    "stars": 4
+  },
+  {
+    "name": "Wolverine X-23",
+    "class": "Mutant",
+    "pi": 5701,
+    "stars": 4
+  },
+  {
+    "name": "Vision",
+    "class": "Tech",
+    "pi": 5555,
+    "stars": 4
+  },
+  {
+    "name": "Scarlet Witch",
+    "class": "Mystic",
+    "pi": 5456,
+    "stars": 4
+  },
+  {
+    "name": "Guillotine",
+    "class": "Mystic",
+    "pi": 8588,
+    "stars": 5
+  },
+  {
+    "name": "Black Panther",
+    "class": "Skill",
+    "pi": 7789,
+    "stars": 5
+  },
+  {
+    "name": "Super Iron Man",
+    "class": "Tech",
+    "pi": 6226,
+    "stars": 5
+  },
+  {
+    "name": "Ronan",
+    "class": "Cosmic",
+    "pi": 6038,
+    "stars": 5
+  },
+  {
+    "name": "Captain America",
+    "class": "Science",
+    "pi": 5226,
+    "stars": 5
+  },
+  {
+    "name": "Rhino",
+    "class": "Science",
+    "pi": 5127,
+    "stars": 5
+  },
+  {
+    "name": "Phoenix",
+    "class": "Cosmic",
+    "pi": 5023,
+    "stars": 4
+  },
+  {
+    "name": "Carnage",
+    "class": "Cosmic",
+    "pi": 4808,
+    "stars": 4
+  },
+  {
+    "name": "Gwenpool",
+    "class": "Skill",
+    "pi": 4767,
+    "stars": 4
+  },
+  {
+    "name": "Archangel",
+    "class": "Mutant",
+    "pi": 4631,
+    "stars": 4
+  },
+  {
+    "name": "The Hood",
+    "class": "Mystic",
+    "pi": 6575,
+    "stars": 4
+  },
+  {
+    "name": "Super Iron Man",
+    "class": "Tech",
+    "pi": 4413,
+    "stars": 4
+  },
+  {
+    "name": "Cross Bones",
+    "class": "Skill",
+    "pi": 4377,
+    "stars": 4
+  },
+  {
+    "name": "Iron Man",
+    "class": "Tech",
+    "pi": 4357,
+    "stars": 5
+  },
+  {
+    "name": "Rouge",
+    "class": "Mutant",
+    "pi": 4338,
+    "stars": 4
+  },
+  {
+    "name": "Iron Patriot",
+    "class": "Tech",
+    "pi": 4283,
+    "stars": 5
+  },
+  {
+    "name": "Magneto",
+    "class": "Mutant",
+    "pi": 4236,
+    "stars": 4
+  },
+  {
+    "name": "Magik",
+    "class": "Mutant",
+    "pi": 4233,
+    "stars": 4
+  },
+  {
+    "name": "Spider-Man Black",
+    "class": "Cosmic",
+    "pi": 4201,
+    "stars": 4
+  },
+  {
+    "name": "Star Lord",
+    "class": "Tech",
+    "pi": 4143,
+    "stars": 4
+  },
+  {
+    "name": "Black Panther CW",
+    "class": "Skill",
+    "pi": 4142,
+    "stars": 5
+  },
+  {
+    "name": "Black Bolt",
+    "class": "Cosmic",
+    "pi": 4104,
+    "stars": 4
+  },
+  {
+    "name": "Daredevil",
+    "class": "Skill",
+    "pi": 4059,
+    "stars": 4
+  },
+  {
+    "name": "Hawkeye",
+    "class": "Skill",
+    "pi": 4049,
+    "stars": 4
+  },
+  {
+    "name": "Black Panther",
+    "class": "Skill",
+    "pi": 4017,
+    "stars": 4
+  },
+  {
+    "name": "Hawkeye",
+    "class": "Skill",
+    "pi": 4005,
+    "stars": 5
+  },
+  {
+    "name": "Colossus",
+    "class": "Mutant",
+    "pi": 4005,
+    "stars": 4
+  },
+  {
+    "name": "The Hood",
+    "class": "Mystic",
+    "pi": 4606,
+    "stars": 4
+  },
+  {
+    "name": "Green Goblin",
+    "class": "Tech",
+    "pi": 4569,
+    "stars": 4
+  },
+  {
+    "name": "Elektra",
+    "class": "Skill",
+    "pi": 4507,
+    "stars": 4
+  },
+  {
+    "name": "Hyperion",
+    "class": "Cosmic",
+    "pi": 4479,
+    "stars": 4
+  },
+  {
+    "name": "Agent Venom",
+    "class": "Skill",
+    "pi": 4423,
+    "stars": 4
+  }
+
+
+
+]
+}

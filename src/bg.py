@@ -38,46 +38,53 @@ class BG(object):
     def optimize(self):
         while (len(self.chosen) < len(self.players) * 5):
             for p in self.players:
-                 if (p.added < 5):
                     for c in p.champs:
-                        if (c.attack == True):
-                            continue
-                        else:
-                            exists = list(filter(lambda existingCharacter: existingCharacter["character"] == c.name, self.chosen))
-                            if len(exists) == 0:
-                                self.chosen.append({
-                                    "character": c.name,
-                                    "player": p.id,
-                                    "pi": c.pi
-                                })
-                                p.chosen.append({
-                                    "character": c.name,
-                                    "player": p.id,
-                                    "pi": c.pi
-                                })
-                                p.added += 1
-                                if p.added == 5:
-                                    break;
+                        if (p.added < 5):
+                            if (c.defense == True):
+                                print(c.name + ' ' + 'Defender')
+                            if (c.attack == True):
+                                continue
                             else:
-                                if (c.pi > exists[0]['pi']):
-                                    self.chosen[:] = [d for d in self.chosen if d.get('character') != c.name]
-
-                                    #remove added from the player
-                                    otherPlayer = list(filter(lambda otherPlayer: otherPlayer.id == exists[0]['player'], self.players))
-                                    otherPlayer[0].added -= 1
-                                    otherPlayer[0].chosen[:] = [d for d in otherPlayer[0].chosen if d.get('character') != c.name]
-
+                                exists = list(filter(lambda existingCharacter: existingCharacter["character"] == c.name, self.chosen))
+                                if len(exists) == 0:
+                                    self.chosen.append({
+                                        "character": c.name,
+                                        "player": p.id,
+                                        "pi": c.pi,
+                                        "defender": c.defense
+                                    })
                                     p.chosen.append({
                                         "character": c.name,
                                         "player": p.id,
                                         "pi": c.pi
                                     })
-                                    self.chosen.append({
-                                        "character": c.name,
-                                        "player": p.id,
-                                        "pi": c.pi
-                                    })
                                     p.added += 1
-                                    if p.added == 5:
-                                        break;
+                                else:
+                                    if (c.pi > exists[0]['pi'] or c.defense == True):
+
+                                        otherPlayer = list(filter(lambda otherPlayer: otherPlayer.id == exists[0]['player'], self.players))
+                                        otherCharacter = list(filter(lambda otherCharacter: otherCharacter.name == c.name, otherPlayer[0].champs))
+
+                                        #make sure other player isn't a defender
+                                        if (otherCharacter[0].defense == True):
+                                            #don't add keep going
+                                            continue
+                                        else:
+                                            #remove added from the player
+                                            self.chosen[:] = [d for d in self.chosen if d.get('character') != c.name]
+                                            otherPlayer[0].added -= 1
+                                            otherPlayer[0].chosen[:] = [d for d in otherPlayer[0].chosen if d.get('character') != c.name]
+
+                                            p.chosen.append({
+                                                "character": c.name,
+                                                "player": p.id,
+                                                "pi": c.pi
+                                            })
+                                            self.chosen.append({
+                                                "character": c.name,
+                                                "player": p.id,
+                                                "pi": c.pi,
+                                                "defender": c.defense
+                                            })
+                                            p.added += 1
         self.chosen = sorted(self.chosen, key=lambda chosen: chosen['player'], reverse=False)

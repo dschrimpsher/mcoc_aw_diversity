@@ -1,0 +1,196 @@
+{
+
+  "id": "mavrik",
+  "champs": [
+  {
+    "name": "Phoenix",
+    "class": "Cosmic",
+    "pi": 7512,
+    "stars": 4
+  },
+  {
+    "name": "Quake",
+    "class": "Science",
+    "pi": 7509,
+    "stars": 4
+  },
+  {
+    "name": "Rogue",
+    "class": "Mutant",
+    "pi": 7280,
+    "stars": 4
+  },
+  {
+    "name": "Gwenpool",
+    "class": "Skill",
+    "pi": 7163,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Archangel",
+    "class": "Mutant",
+    "pi": 7086,
+    "stars": 4
+  },
+  {
+    "name": "Iron Man",
+    "class": "Tech",
+    "pi": 6908,
+    "stars": 5
+  },
+  {
+    "name": "Hyperion",
+    "class": "Cosmic",
+    "pi": 6869,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Cable",
+    "class": "Mutant",
+    "pi": 6726,
+    "stars": 4
+  },
+  {
+    "name": "Captain America WWII",
+    "class": "Science",
+    "pi": 6566,
+    "stars": 4
+  },
+  {
+    "name": "Daredevil",
+    "class": "Skill",
+    "pi": 6477,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Magik",
+    "class": "Mystic",
+    "pi": 6393,
+    "stars": 5
+  },
+  {
+    "name": "Scarlet Witch",
+    "class": "Mystic",
+    "pi": 6303,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Wolverine X-23",
+    "class": "Mutant",
+    "pi": 6299,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Star Lord",
+    "class": "Tech",
+    "pi": 6167,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Vision",
+    "class": "Tech",
+    "pi": 6146,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Howard The Duck",
+    "class": "Tech",
+    "pi": 5433,
+    "stars": 4
+  },
+  {
+    "name": "Cross Bones",
+    "class": "Skill",
+    "pi": 5201,
+    "stars": 4
+  },
+  {
+      "name": "Red Hulk",
+      "class": "Science",
+      "pi": 5184,
+      "stars": 4
+  },
+  {
+    "name": "Elektra",
+    "class": "Skill",
+    "pi": 5121,
+    "stars": 4
+  },
+  {
+    "name": "Thor",
+    "class": "Cosmic",
+    "pi": 5095,
+    "stars": 4
+  },
+  {
+    "name": "Black Widow",
+    "class": "Skill",
+    "pi": 5018,
+    "stars": 4
+  },
+  {
+    "name": "Gamora",
+    "class": "Cosmic",
+    "pi": 4949,
+    "stars": 4
+  },
+  {
+    "name": "Drax",
+    "class": "Cosmic",
+    "pi": 4792,
+    "stars": 4
+  },
+  {
+    "name": "Iron Fist",
+    "class": "Mystic",
+    "pi": 4714,
+    "stars": 5
+  },
+  {
+    "name": "Captain Marvel",
+    "class": "Cosmic",
+    "pi": 4675,
+    "stars": 4
+  },
+  {
+    "name": "Cyclops",
+    "class": "Mutant",
+    "pi": 4607,
+    "stars": 5
+  },
+  {
+    "name": "Karnak",
+    "class": "Skill",
+    "pi": 4241,
+    "stars": 4
+  },
+  {
+    "name": "Loki",
+    "class": "Mystic",
+    "pi": 4116,
+    "stars": 4
+  },
+  {
+    "name": "Civil Warrior",
+    "class": "Tech",
+    "pi": 3933,
+    "stars": 4
+  },
+  {
+    "name": "Beast",
+    "class": "Mutant",
+    "pi": 3877,
+    "stars": 4
+  }
+
+
+
+]
+}

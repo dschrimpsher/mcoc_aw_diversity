@@ -1,0 +1,191 @@
+{
+
+  "id": "flores",
+  "champs": [
+  {
+    "name": "Rhino",
+    "class": "Science",
+    "pi": 7512,
+    "stars": 5
+  },
+  {
+    "name": "Mordo",
+    "class": "Mystic",
+    "pi": 6544,
+    "stars": 5
+  },
+  {
+    "name": "Psylocke",
+    "class": "Mutant",
+    "pi": 6145,
+    "stars": 4
+  },
+  {
+    "name": "Black Widow",
+    "class": "Skill",
+    "pi": 5911,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Guillotine",
+    "class": "Mystic",
+    "pi": 5882,
+    "stars": 5,
+    "attack": true
+  },
+  {
+    "name": "Storm",
+    "class": "Mutant",
+    "pi": 5607,
+    "stars": 5
+  },
+  {
+    "name": "Star Lord",
+    "class": "Tech",
+    "pi": 5582,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Doctor Strange",
+    "class": "Mystic",
+    "pi": 5547,
+    "stars": 4
+  },
+  {
+    "name": "Drax",
+    "class": "Cosmic",
+    "pi": 5462,
+    "stars": 5
+  },
+  {
+    "name": "Star Lord",
+    "class": "Tech",
+    "pi": 5376,
+    "stars": 5
+  },
+  {
+    "name": "Black Panther CW",
+    "class": "Skill",
+    "pi": 5238,
+    "stars": 4
+  },
+  {
+    "name": "Electro",
+    "class": "Science",
+    "pi": 4565,
+    "stars": 4
+  },
+  {
+    "name": "Civil Warrior",
+    "class": "Tech",
+    "pi": 4467,
+    "stars": 4
+  },
+  {
+    "name": "Elektra",
+    "class": "Skill",
+    "pi": 4444,
+    "stars": 4
+  },
+  {
+    "name": "Dormammu",
+    "class": "Mystic",
+    "pi": 4368,
+    "stars": 4
+  },
+  {
+    "name": "Spider-Man Miles",
+    "class": "Science",
+    "pi": 4316,
+    "stars": 4
+  },
+  {
+    "name": "Ultron",
+    "class": "Tech",
+    "pi": 4307,
+    "stars": 4
+  },
+  {
+    "name": "Quake",
+    "class": "Science",
+    "pi": 4265,
+    "stars": 4
+  },
+  {
+    "name": "Iron Man",
+    "class": "Tech",
+    "pi": 4264,
+    "stars": 5
+  },
+  {
+    "name": "Gwenpool",
+    "class": "Skill",
+    "pi": 4234,
+    "stars": 4
+  },
+  {
+    "name": "Rocket Raccoon",
+    "class": "Tech",
+    "pi": 4199,
+    "stars": 5
+  },
+  {
+    "name": "Daredevil",
+    "class": "Skill",
+    "pi": 4179,
+    "stars": 4
+  },
+  {
+    "name": "Ms. Marvel",
+    "class": "Cosmic",
+    "pi": 4174,
+    "stars": 4
+  },
+  {
+    "name": "Scarlet Witch",
+    "class": "Mystic",
+    "pi": 4159,
+    "stars": 4
+  },
+  {
+    "name": "Spider-Man",
+    "class": "Science",
+    "pi": 4138,
+    "stars": 4
+  },
+  {
+    "name": "Venom",
+    "class": "Cosmic",
+    "pi": 4122,
+    "stars": 4
+  },
+  {
+    "name": "Captain Marvel",
+    "class": "Cosmic",
+    "pi": 4081,
+    "stars": 4
+  },
+  {
+    "name": "The Hood",
+    "class": "Mystic",
+    "pi": 4049,
+    "stars": 4
+  },
+  {
+    "name": "Magneto",
+    "class": "Mutant",
+    "pi": 4041,
+    "stars": 5
+  },
+  {
+    "name": "Cyclops",
+    "class": "Mutant",
+    "pi": 4036,
+    "stars": 5
+  }
+
+
+]
+}

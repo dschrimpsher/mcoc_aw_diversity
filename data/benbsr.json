@@ -1,0 +1,163 @@
+{
+
+  "id": "benbsr",
+  "champs": [
+  {
+    "name": "Spider-Man",
+    "class": "Science",
+    "pi": 8025,
+    "stars": 5
+  },
+  {
+    "name": "Mordo",
+    "class": "Mystic",
+    "pi": 6586,
+    "stars": 4
+  },
+  {
+    "name": "Rocket Raccoon",
+    "class": "Tech",
+    "pi": 6283,
+    "stars": 5
+  },
+  {
+    "name": "The Hood",
+    "class": "Mystic",
+    "pi": 6210,
+    "stars": 4
+  },
+  {
+    "name": "Hyperion",
+    "class": "Cosmic",
+    "pi": 5872,
+    "stars": 4
+  },
+  {
+    "name": "Super Iron Man",
+    "class": "Cosmic",
+    "pi": 5791,
+    "stars": 4
+  },
+  {
+    "name": "Black Panther CW",
+    "class": "Skill",
+    "pi": 5755,
+    "stars": 5
+  },
+  {
+    "name": "Unstopable Colossus",
+    "class": "Mystic",
+    "pi": 5683,
+    "stars": 5
+  },
+  {
+    "name": "Yondu",
+    "class": "Tech",
+    "pi": 5629,
+    "stars": 4
+  },
+  {
+    "name": "Star Lord",
+    "class": "Tech",
+    "pi": 5420,
+    "stars": 4
+  },
+  {
+    "name": "Drax",
+    "class": "Cosmic",
+    "pi": 5346,
+    "stars": 5
+  },
+  {
+    "name": "Wolverine",
+    "class": "Mutant",
+    "pi": 5172,
+    "stars": 4
+  },
+  {
+    "name": "Hawkeye",
+    "class": "Skill",
+    "pi": 5152,
+    "stars": 5
+  },
+  {
+    "name": "Doctor Voodo",
+    "class": "Mystic",
+    "pi": 4870,
+    "stars": 4
+  },
+  {
+    "name": "Quake",
+    "class": "Science",
+    "pi": 4584,
+    "stars": 4
+  },
+  {
+    "name": "Archangel",
+    "class": "Mutant",
+    "pi": 4556,
+    "stars": 4
+  },
+  {
+    "name": "Electro",
+    "class": "Science",
+    "pi": 4551,
+    "stars": 4
+  },
+  {
+    "name": "Hulkbuster",
+    "class": "Tech",
+    "pi": 4361,
+    "stars": 4
+  },
+  {
+    "name": "Black Widow",
+    "class": "Skill",
+    "pi": 4354,
+    "stars": 4
+  },
+  {
+    "name": "Captain America WWII",
+    "class": "Science",
+    "pi": 4270,
+    "stars": 4
+  },
+  {
+    "name": "Wolverine X-23",
+    "class": "Mutant",
+    "pi": 4191,
+    "stars": 4
+  },
+  {
+    "name": "Mephisto",
+    "class": "Mystic",
+    "pi": 4154,
+    "stars": 4
+  },
+  {
+    "name": "Gamora",
+    "class": "Cosmic",
+    "pi": 4142,
+    "stars": 4
+  },
+  {
+    "name": "Magik",
+    "class": "Mystic",
+    "pi": 4103,
+    "stars": 4
+  },
+  {
+    "name": "Iron Fist",
+    "class": "Mystic",
+    "pi": 4031,
+    "stars": 5
+  },
+  {
+    "name": "Juggernaut",
+    "class": "Mystic",
+    "pi": 4012,
+    "stars": 5
+  }
+
+]
+}

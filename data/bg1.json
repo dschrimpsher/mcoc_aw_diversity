@@ -1,0 +1,31 @@
+{
+  "id": "bg1",
+  "players": [
+    {
+      "filename": "data/zaboy77.json"
+    },
+    {
+      "filename": "data/meciki.json"
+    },
+
+    {
+      "filename": "data/mrspry.json"
+    },
+    {
+      "filename": "data/mavrik.json"
+    },
+    {
+      "filename": "data/rramos87.json"
+    },
+    {
+      "filename": "data/benbsr.json"
+    },
+    {
+      "filename": "data/flores.json"
+    },
+    {
+      "filename": "data/fupadamuss.json"
+    }
+
+  ]
+}

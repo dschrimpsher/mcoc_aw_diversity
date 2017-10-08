@@ -1,0 +1,192 @@
+{
+
+  "id": "rramos87",
+  "champs": [
+  {
+    "name": "Gwenpool",
+    "class": "Skill",
+    "pi": 6337,
+    "stars": 4
+  },
+  {
+    "name": "Storm",
+    "class": "Mutant",
+    "pi": 6258,
+    "stars": 5
+  },
+  {
+    "name": "Magik",
+    "class": "Mystic",
+    "pi": 6241,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Thor",
+    "class": "Cosmic",
+    "pi": 6225,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Archangel",
+    "class": "Mutant",
+    "pi": 6161,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Black Widow",
+    "class": "Skill",
+    "pi": 6063,
+    "stars": 4
+  },
+  {
+    "name": "Hyperion",
+    "class": "Cosmic",
+    "pi": 6023,
+    "stars": 4
+  },
+  {
+    "name": "Yellow Jacket",
+    "class": "Science",
+    "pi": 5880,
+    "stars": 4
+  },
+  {
+    "name": "Star Lord",
+    "class": "Tech",
+    "pi": 5698,
+    "stars": 4
+  },
+  {
+    "name": "Vision",
+    "class": "Tech",
+    "pi": 5539,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Captain America WWII",
+    "class": "Science",
+    "pi": 5208,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Phoenix",
+    "class": "Cosmic",
+    "pi": 5192,
+    "stars": 4
+  },
+  {
+    "name": "Rogue",
+    "class": "Mutant",
+    "pi": 4831,
+    "stars": 4
+  },
+  {
+    "name": "Rocket Raccoon",
+    "class": "Tech",
+    "pi": 4768,
+    "stars": 4
+  },
+  {
+    "name": "The Hood",
+    "class": "Mystic",
+    "pi": 4748,
+    "stars": 4
+  },
+  {
+    "name": "Iron Fist",
+    "class": "Mystic",
+    "pi": 4690,
+    "stars": 4
+  },
+  {
+    "name": "Civil Warrior",
+    "class": "Tech",
+    "pi": 4641,
+    "stars": 4
+  },
+  {
+    "name": "Karnak",
+    "class": "Skill",
+    "pi": 4640,
+    "stars": 4
+  },
+  {
+    "name": "Guillotine",
+    "class": "Mystic",
+    "pi": 4537,
+    "stars": 4
+  },
+  {
+    "name": "Carnage",
+    "class": "Cosmic",
+    "pi": 4502,
+    "stars": 5
+  },
+  {
+    "name": "Black Panther CW",
+    "class": "Skill",
+    "pi": 4455,
+    "stars": 4
+  },
+  {
+    "name": "Wolverine X-23",
+    "class": "Mutant",
+    "pi": 4430,
+    "stars": 4
+  },
+  {
+    "name": "Cross Bones",
+    "class": "Skill",
+    "pi": 446,
+    "stars": 4
+  },
+  {
+    "name": "Iron Man",
+    "class": "Tech",
+    "pi": 4395,
+    "stars": 5
+  },
+  {
+    "name": "Quake",
+    "class": "Science",
+    "pi": 4384,
+    "stars": 4
+  },
+  {
+    "name": "Doctor Strange",
+    "class": "Mystic",
+    "pi": 4343,
+    "stars": 4
+  },
+  {
+    "name": "Abomination",
+    "class": "Science",
+    "pi": 4338,
+    "stars": 4
+  },
+  {
+    "name": "Scarlet Witch",
+    "class": "Mystic",
+    "pi": 4319,
+    "stars": 4
+  },
+  {
+    "name": "Ultron",
+    "class": "Tech",
+    "pi": 4282,
+    "stars": 4
+  },
+  {
+    "name": "Daredevil",
+    "class": "Skill",
+    "pi": 4209,
+    "stars": 4
+  }
+
+]
+}
