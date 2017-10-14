@@ -68,13 +68,15 @@
       "name": "Civil Warrior",
       "class": "Tech",
       "pi": 4275,
-      "stars": 4
+      "stars": 4,
+      "defense": true
     },
     {
       "name": "Elektra",
       "class": "Skill",
       "pi": 4244,
-      "stars": 4
+      "stars": 4,
+      "defense": true
     },
     {
       "name": "Agent Venom",
@@ -98,7 +100,8 @@
       "name": "Magneto",
       "class": "Mutant",
       "pi": 4138,
-      "stars": 5
+      "stars": 5,
+      "defense": true
     },
     {
       "name": "Ultron",
@@ -122,13 +125,15 @@
       "name": "Abomination",
       "class": "Science",
       "pi": 3955,
-      "stars": 4
+      "stars": 4,
+      "defense": true
     },
     {
       "name": "Iron Man",
       "class": "Tech",
       "pi": 3919,
-      "stars": 4
+      "stars": 4,
+      "defense": true
     },
     {
       "name": "Nightcrawler",

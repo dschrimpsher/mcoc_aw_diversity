@@ -1,0 +1,252 @@
+{
+
+  "id": "jackie75",
+  "champs": [
+  {
+    "name": "Spider-Man",
+    "class": "Science",
+    "pi": 8089,
+    "stars": 5
+  },
+  {
+    "name": "Hawkeye",
+    "class": "Skill",
+    "pi": 7514,
+    "stars": 5,
+    "attack": true
+  },
+  {
+    "name": "Iron Fist",
+    "class": "Mystic",
+    "pi": 6282,
+    "stars": 5
+  },
+  {
+    "name": "Storm",
+    "class": "Mutant",
+    "pi": 5970,
+    "stars": 5
+  },
+  {
+    "name": "Black Panther",
+    "class": "Skill",
+    "pi": 5111,
+    "stars": 5
+  },
+  {
+    "name": "Hulkbuster",
+    "class": "Tech",
+    "pi": 4378,
+    "stars": 5
+  },
+  {
+    "name": "Cross Bones",
+    "class": "Skill",
+    "pi": 4023,
+    "stars": 5
+  },
+  {
+    "name": "Spider-Man Miles",
+    "class": "Science",
+    "pi": 3852,
+    "stars": 5
+  },
+  {
+    "name": "Winter Soldier",
+    "class": "Skill",
+    "pi": 3772,
+    "stars": 5
+  },
+  {
+    "name": "Moon Knight",
+    "class": "Skill",
+    "pi": 3737,
+    "stars": 5
+  },
+  {
+    "name": "Star Lord",
+    "class": "Tech",
+    "pi": 3736,
+    "stars": 5
+  },
+  {
+    "name": "Luke Cage",
+    "class": "Science",
+    "pi": 3681,
+    "stars": 5
+  },
+  {
+    "name": "Juggernaut",
+    "class": "Mystic",
+    "pi": 3652,
+    "stars": 5
+  },
+  {
+    "name": "Ant Man",
+    "class": "Science",
+    "pi": 3581,
+    "stars": 5
+  },
+  {
+    "name": "Nightcrawler",
+    "class": "Mutant",
+    "pi": 2319,
+    "stars": 5
+  },
+  {
+    "name": "Ghost Rider",
+    "class": "Mystic",
+    "pi": 6337,
+    "stars": 4
+  },
+  {
+    "name": "Quake",
+    "class": "Science",
+    "pi": 6290,
+    "stars": 4
+  },
+  {
+    "name": "Rogue",
+    "class": "Mutant",
+    "pi": 6186,
+    "stars": 4
+  },
+  {
+    "name": "Archangel",
+    "class": "Mutant",
+    "pi": 6068,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Nightcrawler",
+    "class": "Mutant",
+    "pi": 6057,
+    "stars": 4
+  },
+  {
+    "name": "Thor",
+    "class": "Cosmic",
+    "pi": 5941,
+    "stars": 4
+  },
+  {
+    "name": "Black Widow",
+    "class": "Skill",
+    "pi": 5761,
+    "stars": 4
+  },
+  {
+    "name": "Captain America WWII",
+    "class": "Science",
+    "pi": 5769,
+    "stars": 4
+  },
+  {
+    "name": "Ultron",
+    "class": "Tech",
+    "pi": 5668,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Ms. Marvel",
+    "class": "Cosmic",
+    "pi": 5517,
+    "stars": 4
+  },
+  {
+    "name": "Scarlet Witch",
+    "class": "Mystic",
+    "pi": 5383,
+    "stars": 4
+  },
+  {
+    "name": "Vision",
+    "class": "Tech",
+    "pi": 5370,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Star Lord",
+    "class": "Tech",
+    "pi": 5354,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Wolverine",
+    "class": "Mutant",
+    "pi": 5080,
+    "stars": 4
+  },
+  {
+    "name": "Rocket Raccoon",
+    "class": "Tech",
+    "pi": 4457,
+    "stars": 4
+  },
+  {
+    "name": "Electro",
+    "class": "Science",
+    "pi": 4443,
+    "stars": 4
+  },
+  {
+    "name": "Elektra",
+    "class": "Skill",
+    "pi": 4429,
+    "stars": 4
+  },
+  {
+    "name": "Agent Venom",
+    "class": "Skill",
+    "pi": 4392,
+    "stars": 4
+  },
+  {
+    "name": "Magik",
+    "class": "Mystic",
+    "pi": 4337,
+    "stars": 4
+  },
+  {
+    "name": "Storm",
+    "class": "Mutant",
+    "pi": 4307,
+    "stars": 4
+  },
+  {
+    "name": "Super Iron Man",
+    "class": "Cosmic",
+    "pi": 4271,
+    "stars": 4
+  },
+  {
+    "name": "Black Panther CW",
+    "class": "Skill",
+    "pi": 4261,
+    "stars": 4
+  },
+  {
+    "name": "Guillotine",
+    "class": "Mystic",
+    "pi": 4240,
+    "stars": 4
+  },
+  {
+    "name": "Hulkbuster",
+    "class": "Tech",
+    "pi": 4208,
+    "stars": 4
+  },
+  {
+    "name": "Cross Bones",
+    "class": "Skill",
+    "pi": 4197,
+    "stars": 4
+  }
+
+]
+}

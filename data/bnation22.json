@@ -1,0 +1,156 @@
+{
+  "id": "bnation22",
+  "champs": [
+    {
+      "name": "Hyperion",
+      "class": "Cosmic",
+      "pi": 5575,
+      "stars": 4
+    },
+    {
+      "name": "Captain America WWII",
+      "class": "Science",
+      "pi": 5477,
+      "stars": 4
+    },
+    {
+      "name": "Scarlet Witch",
+      "class": "Mystic",
+      "pi": 5236,
+      "stars": 4
+    },
+    {
+      "name": "Vision",
+      "class": "Tech",
+      "pi": 5177,
+      "stars": 4
+    },
+    {
+      "name": "Wolverine",
+      "class": "Mutant",
+      "pi": 4935,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man Stark",
+      "class": "Tech",
+      "pi": 4664,
+      "stars": 4
+    },
+    {
+      "name": "Rocket Raccoon",
+      "class": "Tech",
+      "pi": 4349,
+      "stars": 4
+    },
+    {
+      "name": "Thor",
+      "class": "Cosmic",
+      "pi": 4303,
+      "stars": 4
+    },
+    {
+      "name": "Psylocke",
+      "class": "Mutant",
+      "pi": 4290,
+      "stars": 4
+    },
+    {
+      "name": "Cross Bones",
+      "class": "Skill",
+      "pi": 4281,
+      "stars": 4
+    },
+    {
+      "name": "Elektra",
+      "class": "Skill",
+      "pi": 4188,
+      "stars": 4
+    },
+    {
+      "name": "Magik",
+      "class": "Mystic",
+      "pi": 4054,
+      "stars": 4
+    },
+    {
+      "name": "Gwenpool",
+      "class": "Skill",
+      "pi": 3974,
+      "stars": 4
+    },
+    {
+      "name": "Doctor Voodo",
+      "class": "Mystic",
+      "pi": 3951,
+      "stars": 4
+    },
+    {
+        "name": "Spider-Man Black",
+        "class": "Cosmic",
+        "pi": 3945,
+        "stars": 4
+    },
+    {
+      "name": "Nightcrawler",
+      "class": "Mutant",
+      "pi": 3872,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man",
+      "class": "Science",
+      "pi": 3852,
+      "stars": 4
+    },
+    {
+      "name": "Black Panther CW",
+      "class": "Skill",
+      "pi": 3690,
+      "stars": 4
+    },
+    {
+      "name": "Wolverine X-23",
+      "class": "Mutant",
+      "pi": 3608,
+      "stars": 4
+    },
+    {
+      "name": "Ghost Rider",
+      "class": "Mystic",
+      "pi": 3384,
+      "stars": 4
+    },
+    {
+      "name": "Groot",
+      "class": "Cosmic",
+      "pi": 3071,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Gwen",
+      "class": "Science",
+      "pi": 3022,
+      "stars": 4
+    },
+    {
+      "name": "Magneto",
+      "class": "Mutant",
+      "pi": 2987,
+      "stars": 4
+    },
+    {
+      "name": "Archangel",
+      "class": "Mutant",
+      "pi": 2970,
+      "stars": 4
+    },
+    {
+      "name": "Iron Man",
+      "class": "Tech",
+      "pi": 2946,
+      "stars": 4
+    }
+
+  ]
+}

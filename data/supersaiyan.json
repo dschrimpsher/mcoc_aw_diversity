@@ -1,0 +1,157 @@
+{
+  "id": "supersaiyan",
+  "champs": [
+    {
+      "name": "Doctor Voodo",
+      "class": "Mystic",
+      "pi": 6602,
+      "stars": 4
+    },
+    {
+      "name": "Gwenpool",
+      "class": "Skill",
+      "pi": 6036,
+      "stars": 4
+    },
+    {
+      "name": "Hyperion",
+      "class": "Cosmic",
+      "pi": 5845,
+      "stars": 4
+    },
+    {
+      "name": "Vision",
+      "class": "Tech",
+      "pi": 5667,
+      "stars": 4
+    },
+    {
+      "name": "Quake",
+      "class": "Science",
+      "pi": 4716,
+      "stars": 4
+    },
+    {
+      "name": "Rouge",
+      "class": "Mutant",
+      "pi": 4484,
+      "stars": 4
+    },
+    {
+      "name": "Mordo",
+      "class": "Mystic",
+      "pi": 4418,
+      "stars": 4
+    },
+    {
+      "name": "Agent Venom",
+      "class": "Skill",
+      "pi": 4357,
+      "stars": 4
+    },
+    {
+      "name": "Thor",
+      "class": "Cosmic",
+      "pi": 4336,
+      "stars": 4
+    },
+    {
+      "name": "Cross Bones",
+      "class": "Skill",
+      "pi": 4277,
+      "stars": 4
+    },
+    {
+      "name": "Black Widow",
+      "class": "Skill",
+      "pi": 4277,
+      "stars": 4
+    },
+    {
+      "name": "Super Iron Man",
+      "class": "Cosmic",
+      "pi": 4193,
+      "stars": 4
+    },
+    {
+      "name": "Doctor Strange",
+      "class": "Mystic",
+      "pi": 4184,
+      "stars": 4
+    },
+    {
+      "name": "Scarlet Witch",
+      "class": "Mystic",
+      "pi": 4170,
+      "stars": 4
+    },
+    {
+      "name": "Blade",
+      "class": "Skill",
+      "pi": 4141,
+      "stars": 4
+    },
+    {
+      "name": "Yellow Jacket",
+      "class": "Science",
+      "pi": 4035,
+      "stars": 4
+    },
+    {
+      "name": "Archangel",
+      "class": "Mutant",
+      "pi": 3997,
+      "stars": 4
+    },
+    {
+      "name": "Hulk",
+      "class": "Science",
+      "pi": 3982,
+      "stars": 4
+    },
+    {
+      "name": "Nightcrawler",
+      "class": "Mutant",
+      "pi": 3964,
+      "stars": 4
+    },
+    {
+      "name": "Black Panther",
+      "class": "Skill",
+      "pi": 3927,
+      "stars": 4
+    },
+    {
+      "name": "Captain America WWII",
+      "class": "Science",
+      "pi": 3694,
+      "stars": 4
+    },
+    {
+      "name": "Ultron",
+      "class": "Tech",
+      "pi": 3602,
+      "stars": 4
+    },
+    {
+      "name": "Loki",
+      "class": "Mystic",
+      "pi": 3589,
+      "stars": 4
+    },
+    {
+      "name": "Thor Lady",
+      "class": "Mystic",
+      "pi": 3322,
+      "stars": 4
+    },
+    {
+      "name": "Red Hulk",
+      "class": "Science",
+      "pi": 3278,
+      "stars": 4
+    }
+
+
+  ]
+}

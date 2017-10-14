@@ -1,0 +1,151 @@
+{
+
+  "id": "engine",
+  "champs": [
+  {
+    "name": "Cross Bones",
+    "class": "Skill",
+    "pi": 4252,
+    "stars": 4
+  },
+  {
+    "name": "Captain America WWII",
+    "class": "Science",
+    "pi": 4194,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Guillotine",
+    "class": "Mystic",
+    "pi": 4148,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Black Widow",
+    "class": "Skill",
+    "pi": 4090,
+    "stars": 4
+  },
+  {
+    "name": "Colossus",
+    "class": "Mutant",
+    "pi": 3986,
+    "stars": 5
+  },
+  {
+    "name": "Guillotine",
+    "class": "Mystic",
+    "pi": 3913,
+    "stars": 5
+  },
+  {
+    "name": "Black Panther",
+    "class": "Skill",
+    "pi": 3599,
+    "stars": 5
+  },
+  {
+    "name": "Phoenix",
+    "class": "Cosmic",
+    "pi": 3332,
+    "stars": 5
+  },
+  {
+    "name": "Ronan",
+    "class": "Cosmic",
+    "pi": 3019,
+    "stars": 5
+  },
+  {
+    "name": "Iron Patriot",
+    "class": "Tech",
+    "pi": 2911,
+    "stars": 5
+  },
+  {
+    "name": "Captain Marvel",
+    "class": "Cosmic",
+    "pi": 2791,
+    "stars": 5
+  },
+  {
+    "name": "Karnak",
+    "class": "Skill",
+    "pi": 1610,
+    "stars": 4
+  },
+  {
+    "name": "Carnage",
+    "class": "Cosmic",
+    "pi": 1581,
+    "stars": 4
+  },
+  {
+    "name": "Loki",
+    "class": "Mystic",
+    "pi": 1572,
+    "stars": 4
+  },
+  {
+    "name": "Winter Soldier",
+    "class": "Skill",
+    "pi": 1395,
+    "stars": 4
+  },
+  {
+    "name": "Luke Cage",
+    "class": "Science",
+    "pi": 1359,
+    "stars": 4
+  },
+  {
+    "name": "Thor",
+    "class": "Cosmic",
+    "pi": 5835,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Wolverine X-23",
+    "class": "Mutant",
+    "pi": 5541,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Hulk",
+    "class": "Science",
+    "pi": 5369,
+    "stars": 4
+  },
+  {
+    "name": "Vision",
+    "class": "Tech",
+    "pi": 5302,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Scarlet Witch",
+    "class": "Mystic",
+    "pi": 5175,
+    "stars": 4
+  },
+  {
+    "name": "Hawkeye",
+    "class": "Skill",
+    "pi": 5168,
+    "stars": 4,
+    "attack": true
+  },
+  {
+    "name": "Juggernaut",
+    "class": "Mystic",
+    "pi": 3245,
+    "stars": 5
+  }
+
+]
+}

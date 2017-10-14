@@ -39,7 +39,7 @@
     {
       "name": "Mordo",
       "class": "Mystic",
-      "pi": 4685,
+      "pi": 6496,
       "stars": 4
     },
     {
@@ -129,6 +129,7 @@
     {
       "name": "Scarlet Witch",
       "class": "Mystic",
+      "piOld": 3870,
       "pi": 3870,
       "stars": 4
     },

@@ -1,0 +1,32 @@
+{
+  "id": "bg3",
+  "players": [
+    {
+      "filename": "data/howdatB.json"
+    },
+    {
+      "filename": "data/theuglyone123s.json"
+    },
+    {
+      "filename": "data/supersaiyan.json"
+    },
+    {
+      "filename": "data/bnation22.json"
+    },
+    {
+      "filename": "data/nwmi.json"
+    }
+    ,
+    {
+      "filename": "data/gsht4649.json"
+    }  ,
+      {
+        "filename": "data/sirblunts.json"
+      }
+      ,
+       {
+         "filename": "data/longliveclk.json"
+       }
+
+  ]
+}

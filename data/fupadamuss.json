@@ -30,7 +30,8 @@
     "name": "Thor",
     "class": "Cosmic",
     "pi": 6041,
-    "stars": 4
+    "stars": 4,
+    "attack": true
   },
   {
     "name": "Black Widow",
@@ -54,7 +55,8 @@
     "name": "Captain America WWII",
     "class": "Science",
     "pi": 5852,
-    "stars": 4
+    "stars": 4,
+    "attack": true
   },
   {
     "name": "Iceman",
@@ -72,13 +74,15 @@
     "name": "Wolverine X-23",
     "class": "Mutant",
     "pi": 5701,
-    "stars": 4
+    "stars": 4,
+    "attack": true
   },
   {
     "name": "Vision",
     "class": "Tech",
     "pi": 5555,
-    "stars": 4
+    "stars": 4,
+    "attack": true
   },
   {
     "name": "Scarlet Witch",
@@ -90,13 +94,15 @@
     "name": "Guillotine",
     "class": "Mystic",
     "pi": 8588,
-    "stars": 5
+    "stars": 5,
+    "attack": true
   },
   {
     "name": "Black Panther",
     "class": "Skill",
     "pi": 7789,
-    "stars": 5
+    "stars": 5,
+    "attack": true
   },
   {
     "name": "Super Iron Man",

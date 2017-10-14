@@ -25,6 +25,12 @@
     },
     {
       "filename": "data/fupadamuss.json"
+    },
+    {
+      "filename": "data/engine.json"
+    },
+    {
+      "filename": "data/jackie75.json"
     }
 
   ]

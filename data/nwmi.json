@@ -1,0 +1,187 @@
+{
+  "id": "nwmi",
+  "champs": [
+    {
+      "name": "Gwenpool",
+      "class": "Skill",
+      "pi": 5860,
+      "stars": 4
+    },
+    {
+      "name": "Dormammu",
+      "class": "Mystic",
+      "pi": 5576,
+      "stars": 4
+    },
+    {
+      "name": "Black Widow",
+      "class": "Skill",
+      "pi": 5544,
+      "stars": 4
+    },
+    {
+      "name": "Black Panther CW",
+      "class": "Skill",
+      "pi": 5530,
+      "stars": 4
+    },
+    {
+      "name": "Captain America WWII",
+      "class": "Science",
+      "pi": 5466,
+      "stars": 4
+    },
+    {
+      "name": "Hulk",
+      "class": "Science",
+      "pi": 5307,
+      "stars": 4
+    },
+    {
+      "name": "Wolverine",
+      "class": "Mutant",
+      "pi": 4979,
+      "stars": 4
+    },
+    {
+      "name": "Magik",
+      "class": "Mystic",
+      "pi": 8587,
+      "stars": 5
+    },
+    {
+      "name": "Mordo",
+      "class": "Mystic",
+      "pi": 4922,
+      "stars": 4
+    },
+    {
+      "name": "Doctor Voodo",
+      "class": "Mystic",
+      "pi": 4765,
+      "stars": 4
+    },
+    {
+      "name": "Quake",
+      "class": "Science",
+      "pi": 4662,
+      "stars": 4
+    },
+    {
+      "name": "Electro",
+      "class": "Science",
+      "pi": 4266,
+      "stars": 4
+    },
+    {
+      "name": "Scarlet Witch",
+      "class": "Mystic",
+      "pi": 4080,
+      "stars": 4
+    },
+    {
+      "name": "Doctor Strange",
+      "class": "Mystic",
+      "pi": 4032,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man",
+      "class": "Science",
+      "pi": 3967,
+      "stars": 4
+    },
+    {
+      "name": "Archangel",
+      "class": "Mutant",
+      "pi": 3928,
+      "stars": 4
+    },
+    {
+      "name": "Captain America WWII",
+      "class": "Science",
+      "pi": 3911,
+      "stars": 4
+    },
+    {
+      "name": "Star Lord",
+      "class": "Tech",
+      "pi": 3904,
+      "stars": 4
+    },
+    {
+      "name": "Nightcrawler",
+      "class": "Mutant",
+      "pi": 3901,
+      "stars": 4
+    },
+    {
+      "name": "Captain Marvel",
+      "class": "Cosmic",
+      "pi": 3882,
+      "stars": 4
+    },
+    {
+      "name": "Hawkeye",
+      "class": "Skill",
+      "pi": 3820,
+      "stars": 4
+    },
+    {
+      "name": "Ultron",
+      "class": "Tech",
+      "pi": 3633,
+      "stars": 4
+    },
+    {
+      "name": "Spider-Man Miles",
+      "class": "Science",
+      "pi": 3561,
+      "stars": 4
+    },
+    {
+      "name": "Phoenix",
+      "class": "Cosmic",
+      "pi": 3604,
+      "stars": 4
+    },
+    {
+      "name": "Iron Fist",
+      "class": "Mystic",
+      "pi": 3232,
+      "stars": 4
+    },
+    {
+      "name": "Ms. Marvel KK",
+      "class": "Cosmic",
+      "pi": 3174,
+      "stars": 4
+    },
+    {
+      "name": "Deadpool X-Factor",
+      "class": "Mutant",
+      "pi": 3171,
+      "stars": 4
+    },
+    {
+      "name": "Cyclops",
+      "class": "Mutant",
+      "pi": 3164,
+      "stars": 4
+    },
+    {
+      "name": "Ghost Rider",
+      "class": "Mystic",
+      "pi": 3109,
+      "stars": 4
+    },
+    {
+      "name": "Magneto White",
+      "class": "Mutant",
+      "pi": 3099,
+      "stars": 4
+    }
+
+
+  ]
+}

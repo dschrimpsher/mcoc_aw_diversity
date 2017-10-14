@@ -50,7 +50,8 @@
     "name": "Cable",
     "class": "Mutant",
     "pi": 6726,
-    "stars": 4
+    "stars": 4,
+    "defense": true
   },
   {
     "name": "Captain America WWII",
