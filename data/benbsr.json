@@ -12,13 +12,15 @@
     "name": "Mordo",
     "class": "Mystic",
     "pi": 6586,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Rocket Raccoon",
     "class": "Tech",
     "pi": 6283,
-    "stars": 5
+    "stars": 5,
+    "defense": false
   },
   {
     "name": "The Hood",
@@ -42,19 +44,22 @@
     "name": "Black Panther CW",
     "class": "Skill",
     "pi": 5755,
-    "stars": 5
+    "stars": 5,
+    "defense": false
   },
   {
     "name": "Unstopable Colossus",
     "class": "Mystic",
     "pi": 5683,
-    "stars": 5
+    "stars": 5,
+    "defense": false
   },
   {
     "name": "Yondu",
     "class": "Tech",
     "pi": 5629,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Star Lord",

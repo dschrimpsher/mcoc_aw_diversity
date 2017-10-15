@@ -5,13 +5,15 @@
       "name": "Doctor Voodo",
       "class": "Mystic",
       "pi": 6602,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Gwenpool",
       "class": "Skill",
       "pi": 6036,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Hyperion",
@@ -23,16 +25,18 @@
       "name": "Vision",
       "class": "Tech",
       "pi": 5667,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Quake",
       "class": "Science",
       "pi": 4716,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
-      "name": "Rouge",
+      "name": "Rogue",
       "class": "Mutant",
       "pi": 4484,
       "stars": 4
@@ -47,7 +51,8 @@
       "name": "Agent Venom",
       "class": "Skill",
       "pi": 4357,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Thor",
@@ -68,10 +73,18 @@
       "stars": 4
     },
     {
+      "name": "Carnage",
+      "class": "Cosmic",
+      "pi": 4216,
+      "stars": 5,
+      "defense": false
+    },
+    {
       "name": "Super Iron Man",
       "class": "Cosmic",
       "pi": 4193,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Doctor Strange",
@@ -86,10 +99,22 @@
       "stars": 4
     },
     {
+      "name": "Guillotine",
+      "class": "Mystic",
+      "pi": 4149,
+      "stars": 5
+    },
+    {
       "name": "Blade",
       "class": "Skill",
       "pi": 4141,
       "stars": 4
+    },
+    {
+      "name": "Rocket Raccoon",
+      "class": "Tech",
+      "pi": 4043,
+      "stars": 5
     },
     {
       "name": "Yellow Jacket",
@@ -119,7 +144,8 @@
       "name": "Black Panther",
       "class": "Skill",
       "pi": 3927,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Captain America WWII",

@@ -6,7 +6,8 @@
     "name": "Spider-Man",
     "class": "Science",
     "pi": 8089,
-    "stars": 5
+    "stars": 5,
+    "defense": false
   },
   {
     "name": "Hawkeye",
@@ -19,7 +20,8 @@
     "name": "Iron Fist",
     "class": "Mystic",
     "pi": 6282,
-    "stars": 5
+    "stars": 5,
+    "defense": false
   },
   {
     "name": "Storm",
@@ -97,7 +99,8 @@
     "name": "Ghost Rider",
     "class": "Mystic",
     "pi": 6337,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Quake",
@@ -122,13 +125,15 @@
     "name": "Nightcrawler",
     "class": "Mutant",
     "pi": 6057,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Thor",
     "class": "Cosmic",
     "pi": 5941,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Black Widow",

@@ -11,7 +11,8 @@
       "name": "Gwenpool",
       "class": "Skill",
       "pi": 6338,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Ghost Rider",
@@ -31,7 +32,8 @@
       "name": "Guillotine",
       "class": "Mystic",
       "pi": 5696,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Captain America WWII",
@@ -70,13 +72,15 @@
       "name": "Electro",
       "class": "Science",
       "pi": 4496,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Rogue",
       "class": "Mutant",
       "pi": 4441,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Mordo",
@@ -88,7 +92,8 @@
       "name": "Gambit",
       "class": "Mutant",
       "pi": 4299,
-      "stars": 5
+      "stars": 5,
+      "defense": false
     },
     {
       "name": "Ms. Marvel",

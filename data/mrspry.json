@@ -64,7 +64,8 @@
     "name": "Vision",
     "class": "Tech",
     "pi": 5357,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Nightcrawler",
@@ -76,7 +77,8 @@
     "name": "Black Panther",
     "class": "Skill",
     "pi": 5026,
-    "stars": 4
+    "stars": 5,
+    "defense": false
   },
   {
     "name": "Wolverine",
@@ -95,19 +97,22 @@
     "name": "Falcon",
     "class": "Skill",
     "pi": 4394,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Cross Bones",
     "class": "Skill",
     "pi": 4339,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Agent Venom",
     "class": "Skill",
     "pi": 4256,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Black Panther CW",

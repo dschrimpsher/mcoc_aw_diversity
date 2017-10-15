@@ -41,7 +41,8 @@
       "name": "Rocket Raccoon",
       "class": "Tech",
       "pi": 4349,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Thor",
@@ -53,19 +54,22 @@
       "name": "Psylocke",
       "class": "Mutant",
       "pi": 4290,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Cross Bones",
       "class": "Skill",
       "pi": 4281,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Elektra",
       "class": "Skill",
       "pi": 4188,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Magik",
@@ -89,7 +93,8 @@
         "name": "Spider-Man Black",
         "class": "Cosmic",
         "pi": 3945,
-        "stars": 4
+        "stars": 4,
+        "defense": false
     },
     {
       "name": "Nightcrawler",

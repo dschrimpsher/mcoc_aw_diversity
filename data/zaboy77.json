@@ -7,7 +7,7 @@
     "class": "Mystic",
     "pi": 8628,
     "stars": 5,
-    "defense": true
+    "defense": false
   },
   {
     "name": "Drax",
@@ -46,7 +46,8 @@
     "name": "Gwenpool",
     "class": "Skill",
     "pi": 6466,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Nightcrawler",
@@ -114,7 +115,7 @@
     "class": "Mystic",
     "pi": 5659,
     "stars": 4,
-    "defense": true
+    "defense": false
   },
   {
     "name": "Hulk",
@@ -139,7 +140,7 @@
     "class": "Science",
     "pi": 5582,
     "stars": 4,
-    "defense": true
+    "defense": false
   },
   {
     "name": "Star Lord",
@@ -159,7 +160,7 @@
     "class": "Mystic",
     "pi": 5334,
     "stars": 4,
-    "defense": true
+    "defense": false
   },
   {
     "name": "Wolverine",

@@ -5,7 +5,8 @@
       "name": "Iceman",
       "class": "Mutant",
       "pi": 8410,
-      "stars": 5
+      "stars": 5,
+      "defense": false
     },
     {
       "name": "Gwenpool",
@@ -17,7 +18,8 @@
       "name": "Morningstar",
       "class": "Mystic",
       "pi": 5924,
-      "stars": 5
+      "stars": 5,
+      "defense": false
     },
     {
       "name": "Scarlet Witch",
@@ -35,13 +37,15 @@
       "name": "Drax",
       "class": "Cosmic",
       "pi": 5246,
-      "stars": 5
+      "stars": 5,
+      "attack": true
     },
     {
       "name": "Wolverine",
       "class": "Mutant",
       "pi": 5060,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Captain America WWII",
@@ -53,7 +57,8 @@
       "name": "Phoenix",
       "class": "Cosmic",
       "pi": 4895,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Mordo",
@@ -65,13 +70,15 @@
       "name": "Punisher 2099",
       "class": "Tech",
       "pi": 4520,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Nightcrawler",
       "class": "Mutant",
       "pi": 4409,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Thor",

@@ -1,7 +1,6 @@
 {
   "id": "bg3",
-  "players": [
-    {
+  "players": [{
       "filename": "data/howdatB.json"
     },
     {
@@ -15,18 +14,22 @@
     },
     {
       "filename": "data/nwmi.json"
-    }
-    ,
+    },
     {
       "filename": "data/gsht4649.json"
-    }  ,
-      {
-        "filename": "data/sirblunts.json"
-      }
-      ,
-       {
-         "filename": "data/longliveclk.json"
-       }
+    },
+    {
+      "filename": "data/sirblunts.json"
+    },
+    {
+      "filename": "data/longliveclk.json"
+    },
+    {
+      "filename": "data/shaunorrr.json"
+    },
+    {
+      "filename": "data/hellgoal.json"
+    }
 
   ]
 }

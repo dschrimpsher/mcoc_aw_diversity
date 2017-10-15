@@ -36,13 +36,15 @@
       "name": "Captain America WWII",
       "class": "Science",
       "pi": 5809,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Guillotine",
       "class": "Mystic",
       "pi": 5738,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Iceman",
@@ -55,7 +57,8 @@
       "name": "Daredevil",
       "class": "Skill",
       "pi": 5627,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Scarlet Witch",
@@ -75,7 +78,8 @@
       "name": "Captain Marvel",
       "class": "Cosmic",
       "pi": 5291,
-      "stars": 5
+      "stars": 5,
+      "defense": false
     },
     {
       "name": "Star Lord",
@@ -100,7 +104,8 @@
       "name": "Gambit",
       "class": "Mutant",
       "pi": 4551,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Agent Venom",

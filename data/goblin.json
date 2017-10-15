@@ -69,14 +69,14 @@
       "class": "Tech",
       "pi": 4275,
       "stars": 4,
-      "defense": true
+      "defense": false
     },
     {
       "name": "Elektra",
       "class": "Skill",
       "pi": 4244,
       "stars": 4,
-      "defense": true
+      "defense": false
     },
     {
       "name": "Agent Venom",
@@ -101,7 +101,7 @@
       "class": "Mutant",
       "pi": 4138,
       "stars": 5,
-      "defense": true
+      "defense": false
     },
     {
       "name": "Ultron",
@@ -126,14 +126,14 @@
       "class": "Science",
       "pi": 3955,
       "stars": 4,
-      "defense": true
+      "defense": false
     },
     {
       "name": "Iron Man",
       "class": "Tech",
       "pi": 3919,
       "stars": 4,
-      "defense": true
+      "defense": false
     },
     {
       "name": "Nightcrawler",

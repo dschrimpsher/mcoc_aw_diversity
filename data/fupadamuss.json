@@ -12,13 +12,15 @@
     "name": "Doctor Voodo",
     "class": "Mystic",
     "pi": 6505,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Electro",
     "class": "Science",
     "pi": 6156,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Iron Fist",
@@ -108,13 +110,15 @@
     "name": "Super Iron Man",
     "class": "Tech",
     "pi": 6226,
-    "stars": 5
+    "stars": 5,
+    "defense": false
   },
   {
     "name": "Ronan",
     "class": "Cosmic",
     "pi": 6038,
-    "stars": 5
+    "stars": 5,
+    "defense": false
   },
   {
     "name": "Captain America",
@@ -156,7 +160,8 @@
     "name": "The Hood",
     "class": "Mystic",
     "pi": 6575,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Super Iron Man",
@@ -177,7 +182,7 @@
     "stars": 5
   },
   {
-    "name": "Rouge",
+    "name": "Rogue",
     "class": "Mutant",
     "pi": 4338,
     "stars": 4

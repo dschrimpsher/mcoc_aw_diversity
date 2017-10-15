@@ -11,19 +11,22 @@
       "name": "Dormammu",
       "class": "Mystic",
       "pi": 5576,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Black Widow",
       "class": "Skill",
       "pi": 5544,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Black Panther CW",
       "class": "Skill",
       "pi": 5530,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Captain America WWII",
@@ -47,7 +50,8 @@
       "name": "Magik",
       "class": "Mystic",
       "pi": 8587,
-      "stars": 5
+      "stars": 5,
+      "defense": false
     },
     {
       "name": "Mordo",
@@ -59,7 +63,8 @@
       "name": "Doctor Voodo",
       "class": "Mystic",
       "pi": 4765,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Quake",

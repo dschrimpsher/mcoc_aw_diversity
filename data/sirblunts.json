@@ -5,7 +5,8 @@
       "name": "Mordo",
       "class": "Mystic",
       "pi": 6544,
-      "stars": 5
+      "stars": 5,
+      "defense": false
     },
     {
       "name": "Gwenpool",
@@ -17,25 +18,29 @@
       "name": "Vision",
       "class": "Tech",
       "pi": 5812,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Iceman",
       "class": "Mutant",
       "pi": 5782,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Nebula",
       "class": "Tech",
       "pi": 5681,
-      "stars": 5
+      "stars": 5,
+      "defense": false
     },
     {
       "name": "Scarlet Witch",
       "class": "Mystic",
       "pi": 5602,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Ultron",
@@ -47,7 +52,8 @@
       "name": "Wolverine",
       "class": "Mutant",
       "pi": 5162,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Doctor Voodo",
@@ -143,13 +149,15 @@
       "name": "Juggernaut",
       "class": "Mystic",
       "pi": 3995,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "War Machine",
       "class": "Tech",
       "pi": 3987,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Captain America WWII",

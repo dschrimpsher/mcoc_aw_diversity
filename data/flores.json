@@ -6,7 +6,8 @@
     "name": "Rhino",
     "class": "Science",
     "pi": 7512,
-    "stars": 5
+    "stars": 5,
+    "defense": false
   },
   {
     "name": "Mordo",
@@ -18,7 +19,8 @@
     "name": "Psylocke",
     "class": "Mutant",
     "pi": 6145,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Black Widow",
@@ -51,13 +53,15 @@
     "name": "Doctor Strange",
     "class": "Mystic",
     "pi": 5547,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Drax",
     "class": "Cosmic",
     "pi": 5462,
-    "stars": 5
+    "stars": 5,
+    "defense": false
   },
   {
     "name": "Star Lord",
@@ -81,7 +85,8 @@
     "name": "Civil Warrior",
     "class": "Tech",
     "pi": 4467,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Elektra",

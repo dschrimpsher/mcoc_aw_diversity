@@ -19,7 +19,8 @@
       "name": "Hyperion",
       "class": "Cosmic",
       "pi": 6018,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Archangel",
@@ -47,7 +48,7 @@
       "class": "Mystic",
       "pi": 5395,
       "stars": 4,
-      "attack": true
+      "defense": false
     },
     {
       "name": "Mordo",
@@ -58,8 +59,9 @@
     {
       "name": "Howard The Duck",
       "class": "Tech",
-      "pi": 4487,
-      "stars": 4
+      "pi": 4486,
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Thor",
@@ -72,7 +74,8 @@
       "name": "Iron Fist",
       "class": "Mystic",
       "pi": 4465,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Magik",
@@ -114,7 +117,8 @@
       "name": "Nightcrawler",
       "class": "Mutant",
       "pi": 4008,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Captain Marvel",

@@ -5,13 +5,15 @@
       "name": "Spider-Man",
       "class": "Science",
       "pi": 7663,
-      "stars": 5
+      "stars": 5,
+      "defense": false
     },
     {
       "name": "Doctor Voodo",
       "class": "Mystic",
       "pi": 6131,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Gwenpool",
@@ -20,7 +22,7 @@
       "stars": 4
     },
     {
-      "name": "Rouge",
+      "name": "Rogue",
       "class": "Mutant",
       "pi": 5381,
       "stars": 4
@@ -32,46 +34,32 @@
       "stars": 4
     },
     {
-      "name": "Archangel",
-      "class": "Mutant",
-      "pi": 6017,
-      "stars": 4
-    },
-    {
-      "name": "Iceman",
-      "class": "Mutant",
-      "pi": 5720,
-      "stars": 4
-    },
-    {
-      "name": "Hulk",
-      "class": "Science",
-      "pi": 5551,
-      "stars": 4
-    },
-    {
       "name": "Thor",
       "class": "Cosmic",
       "pi": 5718,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Ultron",
       "class": "Tech",
       "pi": 5431,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Daredevil",
       "class": "Skill",
       "pi": 5353,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Hulk",
       "class": "Science",
       "pi": 5258,
-      "stars": 4
+      "stars": 4,
+      "defense": false
     },
     {
       "name": "Vision",
@@ -83,7 +71,8 @@
       "name": "Star Lord",
       "class": "Tech",
       "pi": 5596,
-      "stars": 5
+      "stars": 5,
+      "attack": true
     },
     {
       "name": "Cable",

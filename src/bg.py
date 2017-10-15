@@ -35,7 +35,38 @@ class BG(object):
             power += i['pi']
         return power
 
-    def optimize(self):
+    def countDuplicates(self, printout=False):
+        number = 0
+        for i in self.chosen:
+            exists = list(filter(lambda existingCharacter: existingCharacter["character"] == i["character"], self.chosen))
+            if len(exists) > 1:
+                if (printout == True):
+                    print('Duplicate', i["character"], ' in ', self.id, ' by ', i['player'])
+                number += 1/len(exists);
+        return number
+
+
+    def theoretical(self):
+        while (len(self.chosen) < len(self.players) * 5):
+            for p in self.players:
+                    p.champs = sorted(p.champs, key=lambda champ:(-champ.pi))
+                    for c in p.champs:
+                        if (p.added < 5):
+                            self.chosen.append({
+                                "character": c.name,
+                                "player": p.id,
+                                "pi": c.pi,
+                                "defender": c.defense
+                            })
+                            p.chosen.append({
+                                "character": c.name,
+                                "player": p.id,
+                                "pi": c.pi
+                            })
+                            p.added += 1
+        self.chosen = sorted(self.chosen, key=lambda chosen: chosen['player'], reverse=False)
+
+    def optimize(self, duplicates=False):
         while (len(self.chosen) < len(self.players) * 5):
             for p in self.players:
                     for c in p.champs:
@@ -66,7 +97,22 @@ class BG(object):
                                         otherCharacter = list(filter(lambda otherCharacter: otherCharacter.name == c.name, otherPlayer[0].champs))
 
                                         #make sure other player isn't a defender
-                                        if (otherCharacter[0].defense == True):
+                                        if ( (c.defense == True and otherCharacter[0].defense == True) or
+                                             (duplicates == True)):
+                                            #add both
+                                            p.chosen.append({
+                                                "character": c.name,
+                                                "player": p.id,
+                                                "pi": c.pi
+                                            })
+                                            self.chosen.append({
+                                                "character": c.name,
+                                                "player": p.id,
+                                                "pi": c.pi,
+                                                "defender": c.defense
+                                            })
+                                            p.added += 1
+                                        elif (otherCharacter[0].defense == True):
                                             #don't add keep going
                                             continue
                                         else:

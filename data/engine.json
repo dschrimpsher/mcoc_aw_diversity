@@ -32,7 +32,8 @@
     "name": "Colossus",
     "class": "Mutant",
     "pi": 3986,
-    "stars": 5
+    "stars": 5,
+    "defense": false
   },
   {
     "name": "Guillotine",
@@ -62,7 +63,8 @@
     "name": "Iron Patriot",
     "class": "Tech",
     "pi": 2911,
-    "stars": 5
+    "stars": 5,
+    "defense": false
   },
   {
     "name": "Captain Marvel",
@@ -74,7 +76,8 @@
     "name": "Karnak",
     "class": "Skill",
     "pi": 1610,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Carnage",
@@ -118,7 +121,8 @@
     "name": "Hulk",
     "class": "Science",
     "pi": 5369,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Vision",
@@ -131,7 +135,8 @@
     "name": "Scarlet Witch",
     "class": "Mystic",
     "pi": 5175,
-    "stars": 4
+    "stars": 4,
+    "defense": false
   },
   {
     "name": "Hawkeye",

@@ -1,0 +1,42 @@
+{
+  "id": "shaunorrr",
+  "champs": [
+    {
+      "name": "Winter Soldier",
+      "class": "Skill",
+      "pi": 4049,
+      "stars": 4,
+      "defense": false
+    },
+    {
+      "name": "The Hood",
+      "class": "Mystic",
+      "pi": 4510,
+      "stars": 4,
+      "defense": false
+    },
+    {
+      "name": "Doctor Strange",
+      "class": "Mystic",
+      "pi": 4206,
+      "stars": 4,
+      "defense": false
+    },
+    {
+      "name": "Yellow Jacket",
+      "class": "Science",
+      "pi": 4200,
+      "stars": 4,
+      "defense": false
+    },
+    {
+      "name": "Captain America WWII",
+      "class": "Science",
+      "pi": 5831,
+      "stars": 4,
+      "defense": false
+    }
+
+
+  ]
+}
