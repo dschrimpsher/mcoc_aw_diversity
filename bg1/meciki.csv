@@ -1,0 +1,31 @@
+Champ,Class,PI,Attack,Defense
+Spider-Man,Science,7915,False,False
+Hawkeye,Skill,7804,True,False
+Doctor Voodo,Mystic,6459,True,False
+Hyperion,Cosmic,5957,False,False
+Nightcrawler,Mutant,5938,False,False
+Captain America WWII,Science,5809,False,False
+Guillotine,Mystic,5738,False,False
+Iceman,Mutant,5721,True,False
+Daredevil,Skill,5627,False,False
+Scarlet Witch,Mystic,5503,True,False
+Vision,Tech,5425,True,False
+Captain Marvel,Cosmic,5291,False,False
+Star Lord,Tech,5238,False,False
+Wolverine,Mutant,5147,True,False
+Phoenix,Cosmic,4708,False,False
+Gambit,Mutant,4551,False,False
+Agent Venom,Skill,4454,False,False
+Falcon,Skill,4410,False,False
+Electro,Science,4383,False,False
+Hulkbuster,Tech,4293,False,False
+Magneto,Mutant,4182,False,False
+Black Bolt,Cosmic,4120,False,False
+Unstopable Colossus,Mystic,4061,False,False
+Colossus,Mutant,4057,False,False
+Rocket Raccoon,Mutant,4047,False,False
+Hulk,Science,4044,False,False
+Archangel,Mutant,4033,False,False
+Black Panther,Skill,3998,False,False
+Yellow Jacket,Science,3957,False,False
+Dormammu,Mystic,3934,False,False

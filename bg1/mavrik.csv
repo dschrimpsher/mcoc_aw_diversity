@@ -1,0 +1,31 @@
+Champ,Class,PI,Attack,Defense
+Cable,Mutant,6726,False,True
+Phoenix,Cosmic,7512,False,False
+Quake,Science,7509,False,False
+Rogue,Mutant,7280,False,False
+Gwenpool,Skill,7163,True,False
+Archangel,Mutant,7086,False,False
+Iron Man,Tech,6908,False,False
+Hyperion,Cosmic,6869,True,False
+Captain America WWII,Science,6566,False,False
+Daredevil,Skill,6477,True,False
+Magik,Mystic,6393,False,False
+Scarlet Witch,Mystic,6303,True,False
+Wolverine X-23,Mutant,6299,True,False
+Star Lord,Tech,6167,True,False
+Vision,Tech,6146,True,False
+Howard The Duck,Tech,5433,False,False
+Cross Bones,Skill,5201,False,False
+Red Hulk,Science,5184,False,False
+Elektra,Skill,5121,False,False
+Thor,Cosmic,5095,False,False
+Black Widow,Skill,5018,False,False
+Gamora,Cosmic,4949,False,False
+Drax,Cosmic,4792,False,False
+Iron Fist,Mystic,4714,False,False
+Captain Marvel,Cosmic,4675,False,False
+Cyclops,Mutant,4607,False,False
+Karnak,Skill,4241,False,False
+Loki,Mystic,4116,False,False
+Civil Warrior,Tech,3933,False,False
+Beast,Mutant,3877,False,False

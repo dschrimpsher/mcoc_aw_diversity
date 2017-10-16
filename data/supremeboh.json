@@ -41,7 +41,7 @@
       "class": "Mystic",
       "pi": 6496,
       "stars": 4,
-      "defense": false
+      "defense": true
     },
     {
       "name": "Karnak",

@@ -1,6 +1,5 @@
 import player
 import json
-import pprint
 
 class BG(object):
     def __init__(self):

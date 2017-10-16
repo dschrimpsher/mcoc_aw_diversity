@@ -17,7 +17,7 @@ class Character:
         padding = 10 - len(self.classType)
         for j in range(padding):
             temp += " "
-        temp +=  "%d " % self.pi
+        temp += "%d " % self.pi
         for i in range(self.stars):
             temp += "*"
         if (self.attack == True):
@@ -26,4 +26,8 @@ class Character:
             temp += ' \tDefender\n'
         else:
             temp += '\n'
+        return temp
+
+    def convertToCsv(self):
+        temp = [self.name,   self.classType, self.pi, self.attack, self.defense]
         return temp
