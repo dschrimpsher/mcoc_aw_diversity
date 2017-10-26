@@ -2,12 +2,14 @@ import character
 import json
 import pprint
 
+
 class Player(object):
     def __init__(self):
         self.id = 0
         self.champs = []
         self.chosen = []
         self.added = 0
+        self.averagePower = 0
 
     def load(self, file):
         with open(file) as data_file:
@@ -21,8 +23,7 @@ class Player(object):
                 else:
                     self.champs.append(character.Character(datum['name'], datum['class'], datum['pi'], datum['stars']))
 
-            self.champs = sorted(self.champs, key=lambda champ:(-champ.defense, -champ.pi))
-
+        self.champs = sorted(self.champs, key=lambda champ:(-champ.defense, -champ.pi))
 
     def power(self):
         power = 0
@@ -31,8 +32,10 @@ class Player(object):
         return power
 
     def __str__(self):
-        temp = 'Player ' + self.id + '\n'
+        print("STR")
+        temp = 'Player ' + str(self.id) + '\n'
         temp += pprint.pformat(self.chosen, indent=5)
+        temp += '\n\tAverage Power: %d' % self.averagePower
         temp += '\n\tPower: %d' % self.power()
         temp += '\n'
         # for champ in self.champs:

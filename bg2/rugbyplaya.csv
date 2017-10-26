@@ -1,29 +1,29 @@
-Champ,Class,PI,Attack,Defense
-Doctor Voodo,Mystic,6672,True,False
-Ghost Rider,Mystic,6579,True,False
-Karnak,Skill,6497,False,False
-Nightcrawler,Mutant,6305,False,False
-Black Widow,Skill,5966,True,False
-Daredevil,Skill,5800,False,False
-Star Lord,Tech,5702,False,False
-Ant Man,Science,5644,False,False
-Hulk,Science,5626,False,False
-Vision,Tech,5621,False,False
-Drax,Cosmic,5579,False,False
-Iron Fist,Mystic,4760,False,False
-Rogue,Mutant,4661,False,False
-Agent Venom,Skill,4614,False,False
-Electro,Science,4602,False,False
-Spider-Man Miles,Science,4368,False,False
-Captain America WWII,Science,4273,False,False
-Thor,Cosmic,4263,False,False
-Magik,Mystic,4234,False,False
-Abomination,Science,4196,False,False
-Magneto,Mutant,4153,False,False
-Storm,Mutant,4141,False,False
-Elektra,Skill,4047,False,False
-Magik,Mystic,4045,False,False
-Captain Marvel,Cosmic,4002,False,False
-Star Lord,Tech,3876,False,False
-Unstopable Colossus,Mystic,3799,False,False
-Rhino,Science,3718,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Doctor Voodo,Mystic,6672,4,True,False
+Ghost Rider,Mystic,6579,4,True,False
+Karnak,Skill,6497,4,False,False
+Nightcrawler,Mutant,6305,4,False,False
+Black Widow,Skill,5966,4,True,False
+Daredevil,Skill,5800,4,False,False
+Star Lord,Tech,5702,4,False,False
+Ant Man,Science,5644,5,False,False
+Hulk,Science,5626,5,False,False
+Vision,Tech,5621,4,False,False
+Drax,Cosmic,5579,5,False,False
+Iron Fist,Mystic,4760,5,False,False
+Rogue,Mutant,4661,4,False,False
+Agent Venom,Skill,4614,4,False,False
+Electro,Science,4602,4,False,False
+Spider-Man Miles,Science,4368,4,False,False
+Captain America WWII,Science,4273,4,False,False
+Thor,Cosmic,4263,4,False,False
+Magik,Mystic,4234,4,False,False
+Abomination,Science,4196,4,False,False
+Magneto,Mutant,4153,5,False,False
+Storm,Mutant,4141,5,False,False
+Elektra,Skill,4047,4,False,False
+Magik,Mystic,4045,5,False,False
+Captain Marvel,Cosmic,4002,5,False,False
+Star Lord,Tech,3876,5,False,False
+Unstopable Colossus,Mystic,3799,5,False,False
+Rhino,Science,3718,5,False,False

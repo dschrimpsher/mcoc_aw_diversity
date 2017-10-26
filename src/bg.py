@@ -17,7 +17,6 @@ class BG(object):
                 self.players.append(newPlayer)
         self.players = sorted(self.players, key=lambda player: player.id, reverse=False)
 
-
     def __str__(self):
         temp = 'BG ' + self.id + '\n'
         # temp += pprint.pformat(self.chosen)

@@ -16,7 +16,7 @@ else:
     for otherPlayer in myBg.players:
         f = open(sys.argv[2] + '/' + otherPlayer.id + '.csv', 'w', newline='')
         writer = csv.writer(f, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-        writer.writerow(['Champ', 'Class', 'PI', 'Attack', 'Defense'])
+        writer.writerow(['Champ', 'Class', 'PI', 'Stars', 'Attack', 'Defense'])
         for c in otherPlayer.champs:
             writer.writerow(c.convertToCsv())
         f.close()

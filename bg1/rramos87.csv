@@ -1,31 +1,31 @@
-Champ,Class,PI,Attack,Defense
-Gwenpool,Skill,6337,False,False
-Storm,Mutant,6258,False,False
-Magik,Mystic,6241,True,False
-Thor,Cosmic,6225,True,False
-Archangel,Mutant,6161,True,False
-Black Widow,Skill,6063,False,False
-Hyperion,Cosmic,6023,False,False
-Yellow Jacket,Science,5880,False,False
-Star Lord,Tech,5698,False,False
-Vision,Tech,5539,True,False
-Captain America WWII,Science,5208,True,False
-Phoenix,Cosmic,5192,False,False
-Rogue,Mutant,4831,False,False
-Rocket Raccoon,Tech,4768,False,False
-The Hood,Mystic,4748,False,False
-Iron Fist,Mystic,4690,False,False
-Civil Warrior,Tech,4641,False,False
-Karnak,Skill,4640,False,False
-Guillotine,Mystic,4537,False,False
-Carnage,Cosmic,4502,False,False
-Black Panther CW,Skill,4455,False,False
-Wolverine X-23,Mutant,4430,False,False
-Iron Man,Tech,4395,False,False
-Quake,Science,4384,False,False
-Doctor Strange,Mystic,4343,False,False
-Abomination,Science,4338,False,False
-Scarlet Witch,Mystic,4319,False,False
-Ultron,Tech,4282,False,False
-Daredevil,Skill,4209,False,False
-Cross Bones,Skill,446,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Gwenpool,Skill,6337,4,False,False
+Storm,Mutant,6258,5,False,False
+Magik,Mystic,6241,4,True,False
+Thor,Cosmic,6225,4,True,False
+Archangel,Mutant,6161,4,True,False
+Black Widow,Skill,6063,4,False,False
+Hyperion,Cosmic,6023,4,False,False
+Yellow Jacket,Science,5880,4,False,False
+Star Lord,Tech,5698,4,False,False
+Vision,Tech,5539,4,True,False
+Captain America WWII,Science,5208,4,True,False
+Phoenix,Cosmic,5192,4,False,False
+Rogue,Mutant,4831,4,False,False
+Rocket Raccoon,Tech,4768,4,False,False
+The Hood,Mystic,4748,4,False,False
+Iron Fist,Mystic,4690,4,False,False
+Civil Warrior,Tech,4641,4,False,False
+Karnak,Skill,4640,4,False,False
+Guillotine,Mystic,4537,4,False,False
+Carnage,Cosmic,4502,5,False,False
+Black Panther CW,Skill,4455,4,False,False
+Wolverine X-23,Mutant,4430,4,False,False
+Iron Man,Tech,4395,5,False,False
+Quake,Science,4384,4,False,False
+Doctor Strange,Mystic,4343,4,False,False
+Abomination,Science,4338,4,False,False
+Scarlet Witch,Mystic,4319,4,False,False
+Ultron,Tech,4282,4,False,False
+Daredevil,Skill,4209,4,False,False
+Cross Bones,Skill,446,4,False,False

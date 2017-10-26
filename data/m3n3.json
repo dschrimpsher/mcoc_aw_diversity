@@ -347,7 +347,8 @@
       "name": "Star Lord",
       "class": "Tech",
       "pi": 6804,
-      "stars": 5
+      "stars": 5,
+      "attack": true
     },
     {
       "name": "Loki",
@@ -413,7 +414,8 @@
       "name": "Thor",
       "class": "Cosmic",
       "pi": 5793,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Captain America WWII",

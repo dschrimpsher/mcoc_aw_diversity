@@ -1,31 +1,31 @@
-Champ,Class,PI,Attack,Defense
-Magik,Mystic,8587,False,False
-Gwenpool,Skill,5860,False,False
-Dormammu,Mystic,5576,False,False
-Black Widow,Skill,5544,False,False
-Black Panther CW,Skill,5530,False,False
-Captain America WWII,Science,5466,False,False
-Hulk,Science,5307,False,False
-Wolverine,Mutant,4979,False,False
-Mordo,Mystic,4922,False,False
-Doctor Voodo,Mystic,4765,False,False
-Quake,Science,4662,False,False
-Electro,Science,4266,False,False
-Scarlet Witch,Mystic,4080,False,False
-Doctor Strange,Mystic,4032,False,False
-Spider-Man,Science,3967,False,False
-Archangel,Mutant,3928,False,False
-Captain America WWII,Science,3911,False,False
-Star Lord,Tech,3904,False,False
-Nightcrawler,Mutant,3901,False,False
-Captain Marvel,Cosmic,3882,False,False
-Hawkeye,Skill,3820,False,False
-Ultron,Tech,3633,False,False
-Phoenix,Cosmic,3604,False,False
-Spider-Man Miles,Science,3561,False,False
-Iron Fist,Mystic,3232,False,False
-Ms. Marvel KK,Cosmic,3174,False,False
-Deadpool X-Factor,Mutant,3171,False,False
-Cyclops,Mutant,3164,False,False
-Ghost Rider,Mystic,3109,False,False
-Magneto White,Mutant,3099,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Magik,Mystic,8587,5,False,False
+Gwenpool,Skill,5860,4,False,False
+Dormammu,Mystic,5576,4,False,False
+Black Widow,Skill,5544,4,False,False
+Black Panther CW,Skill,5530,4,False,False
+Captain America WWII,Science,5466,4,False,False
+Hulk,Science,5307,4,False,False
+Wolverine,Mutant,4979,4,False,False
+Mordo,Mystic,4922,4,False,False
+Doctor Voodo,Mystic,4765,4,False,False
+Quake,Science,4662,4,False,False
+Electro,Science,4266,4,False,False
+Scarlet Witch,Mystic,4080,4,False,False
+Doctor Strange,Mystic,4032,4,False,False
+Spider-Man,Science,3967,4,False,False
+Archangel,Mutant,3928,4,False,False
+Captain America WWII,Science,3911,4,False,False
+Star Lord,Tech,3904,4,False,False
+Nightcrawler,Mutant,3901,4,False,False
+Captain Marvel,Cosmic,3882,4,False,False
+Hawkeye,Skill,3820,4,False,False
+Ultron,Tech,3633,4,False,False
+Phoenix,Cosmic,3604,4,False,False
+Spider-Man Miles,Science,3561,4,False,False
+Iron Fist,Mystic,3232,4,False,False
+Ms. Marvel KK,Cosmic,3174,4,False,False
+Deadpool X-Factor,Mutant,3171,4,False,False
+Cyclops,Mutant,3164,4,False,False
+Ghost Rider,Mystic,3109,4,False,False
+Magneto White,Mutant,3099,4,False,False

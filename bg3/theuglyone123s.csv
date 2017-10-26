@@ -1,31 +1,31 @@
-Champ,Class,PI,Attack,Defense
-Spider-Man,Science,7663,False,False
-Doctor Voodo,Mystic,6131,True,False
-Gwenpool,Skill,5978,False,False
-Hyperion,Cosmic,5761,False,False
-Thor,Cosmic,5718,False,False
-Star Lord,Tech,5596,True,False
-Ultron,Tech,5431,False,False
-Rogue,Mutant,5381,False,False
-Daredevil,Skill,5353,False,False
-Hulk,Science,5258,False,False
-Vision,Tech,5036,False,False
-Cable,Mutant,4338,False,False
-Cross Bones,Skill,4279,False,False
-Rocket Raccoon,Tech,4275,False,False
-Angela,Cosmic,4260,False,False
-Electro,Science,4183,False,False
-Guillotine,Mystic,4051,False,False
-Magik,Mystic,3959,False,False
-Ms. Marvel,Cosmic,3941,False,False
-Spider-Man,Science,3933,False,False
-Black Panther,Skill,3889,False,False
-Nightcrawler,Mutant,3885,False,False
-Wolverine,Mutant,3711,False,False
-Winter Soldier,Skill,3657,False,False
-Phoenix,Cosmic,3542,False,False
-Civil Warrior,Tech,3341,False,False
-Red Hulk,Science,3211,False,False
-Mordo,Mystic,3172,False,False
-Storm,Mutant,3123,False,False
-Cyclops,Mutant,3119,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Spider-Man,Science,7663,5,False,False
+Doctor Voodo,Mystic,6131,4,True,False
+Gwenpool,Skill,5978,4,False,False
+Hyperion,Cosmic,5761,4,False,False
+Thor,Cosmic,5718,4,False,False
+Star Lord,Tech,5596,5,True,False
+Ultron,Tech,5431,4,False,False
+Rogue,Mutant,5381,4,False,False
+Daredevil,Skill,5353,4,False,False
+Hulk,Science,5258,4,False,False
+Vision,Tech,5036,4,False,False
+Cable,Mutant,4338,4,False,False
+Cross Bones,Skill,4279,4,False,False
+Rocket Raccoon,Tech,4275,4,False,False
+Angela,Cosmic,4260,4,False,False
+Electro,Science,4183,4,False,False
+Guillotine,Mystic,4051,4,False,False
+Magik,Mystic,3959,4,False,False
+Ms. Marvel,Cosmic,3941,4,False,False
+Spider-Man,Science,3933,4,False,False
+Black Panther,Skill,3889,4,False,False
+Nightcrawler,Mutant,3885,4,False,False
+Wolverine,Mutant,3711,4,False,False
+Winter Soldier,Skill,3657,5,False,False
+Phoenix,Cosmic,3542,4,False,False
+Civil Warrior,Tech,3341,4,False,False
+Red Hulk,Science,3211,4,False,False
+Mordo,Mystic,3172,4,False,False
+Storm,Mutant,3123,4,False,False
+Cyclops,Mutant,3119,4,False,False

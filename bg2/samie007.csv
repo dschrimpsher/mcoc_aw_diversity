@@ -1,31 +1,31 @@
-Champ,Class,PI,Attack,Defense
-Storm,Mutant,8550,False,False
-Doctor Voodo,Mystic,6685,True,False
-Gwenpool,Skill,6389,True,False
-Gwenpool,Skill,6322,False,False
-Hyperion,Cosmic,6012,False,False
-Wolverine,Mutant,5625,True,False
-Hulk,Science,5539,False,False
-Punisher,Skill,5473,False,False
-Quake,Science,4947,False,False
-Archangel,Mutant,4714,False,False
-Cable,Mutant,4698,False,False
-Thor,Cosmic,4641,False,False
-Mordo,Mystic,4497,False,False
-Captain America WWII,Science,4380,False,False
-Drax,Cosmic,4281,False,False
-Scarlet Witch,Mystic,4239,False,False
-Wolverine X-23,Mutant,4231,False,False
-Dormammu,Mystic,4228,False,False
-Spider-Man,Science,4223,False,False
-Magik,Mystic,4194,False,False
-Star Lord,Tech,4178,False,False
-Vision,Tech,4062,False,False
-Magik,Mystic,4004,False,False
-Black Panther,Skill,3829,False,False
-Hawkeye,Skill,3791,False,False
-Rocket Raccoon,Tech,3296,False,False
-Winter Soldier,Skill,2983,False,False
-Unstopable Colossus,Mystic,2894,False,False
-Captain America,Science,2852,False,False
-Ant Man,Science,2794,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Storm,Mutant,8550,5,False,False
+Doctor Voodo,Mystic,6685,4,True,False
+Gwenpool,Skill,6389,4,True,False
+Gwenpool,Skill,6322,5,False,False
+Hyperion,Cosmic,6012,4,False,False
+Wolverine,Mutant,5625,4,True,False
+Hulk,Science,5539,4,False,False
+Punisher,Skill,5473,4,False,False
+Quake,Science,4947,4,False,False
+Archangel,Mutant,4714,4,False,False
+Cable,Mutant,4698,4,False,False
+Thor,Cosmic,4641,4,False,False
+Mordo,Mystic,4497,4,False,False
+Captain America WWII,Science,4380,4,False,False
+Drax,Cosmic,4281,4,False,False
+Scarlet Witch,Mystic,4239,4,False,False
+Wolverine X-23,Mutant,4231,4,False,False
+Dormammu,Mystic,4228,4,False,False
+Spider-Man,Science,4223,4,False,False
+Magik,Mystic,4194,4,False,False
+Star Lord,Tech,4178,4,False,False
+Vision,Tech,4062,4,False,False
+Magik,Mystic,4004,5,False,False
+Black Panther,Skill,3829,5,False,False
+Hawkeye,Skill,3791,5,False,False
+Rocket Raccoon,Tech,3296,5,False,False
+Winter Soldier,Skill,2983,5,False,False
+Unstopable Colossus,Mystic,2894,5,False,False
+Captain America,Science,2852,5,False,False
+Ant Man,Science,2794,5,False,False

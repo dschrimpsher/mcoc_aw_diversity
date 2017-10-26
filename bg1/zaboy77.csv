@@ -1,32 +1,32 @@
-Champ,Class,PI,Attack,Defense
-Magik,Mystic,8628,False,True
-Dormammu,Mystic,5659,False,True
-Abomination,Science,5582,False,True
-Juggernaut,Mystic,5334,False,True
-Drax,Cosmic,8189,True,False
-Hawkeye,Skill,7482,True,False
-Phoenix,Cosmic,6867,False,False
-Quake,Science,6631,False,False
-Ghost Rider,Mystic,6582,True,False
-Quake,Science,6575,False,False
-Gwenpool,Skill,6466,False,False
-Nightcrawler,Mutant,6250,False,False
-Archangel,Mutant,6159,False,False
-Psylocke,Mutant,6057,False,False
-Thor,Cosmic,5999,False,False
-Iron Man,Tech,5989,False,False
-Iceman,Mutant,5956,True,False
-Black Widow,Skill,5902,False,False
-Captain America WWII,Science,5818,False,False
-Hyperion,Cosmic,5781,False,False
-Winter Soldier,Skill,5749,False,False
-Ultron,Tech,5744,False,False
-Scarlet Witch,Mystic,5699,False,False
-Hulk,Mystic,5639,False,False
-Daredevil,Skill,5631,False,False
-Rhino,Science,5617,False,False
-Wolverine X-23,Mutant,5591,False,False
-Star Lord,Tech,5538,True,False
-Vision,Tech,5414,False,False
-Mordo,Mystic,5196,False,False
-Wolverine,Mutant,5173,True,False
+Champ,Class,PI,Stars,Attack,Defense
+Magik,Mystic,8628,5,False,True
+Dormammu,Mystic,5659,4,False,True
+Abomination,Science,5582,4,False,True
+Juggernaut,Mystic,5334,4,False,True
+Drax,Cosmic,8189,5,True,False
+Hawkeye,Skill,7482,5,True,False
+Phoenix,Cosmic,6867,4,False,False
+Quake,Science,6631,4,False,False
+Ghost Rider,Mystic,6582,4,True,False
+Quake,Science,6575,4,False,False
+Gwenpool,Skill,6466,4,False,False
+Nightcrawler,Mutant,6250,4,False,False
+Archangel,Mutant,6159,4,False,False
+Psylocke,Mutant,6057,4,False,False
+Thor,Cosmic,5999,4,False,False
+Iron Man,Tech,5989,5,False,False
+Iceman,Mutant,5956,4,True,False
+Black Widow,Skill,5902,4,False,False
+Captain America WWII,Science,5818,4,False,False
+Hyperion,Cosmic,5781,4,False,False
+Winter Soldier,Skill,5749,5,False,False
+Ultron,Tech,5744,4,False,False
+Scarlet Witch,Mystic,5699,4,False,False
+Hulk,Mystic,5639,4,False,False
+Daredevil,Skill,5631,4,False,False
+Rhino,Science,5617,5,False,False
+Wolverine X-23,Mutant,5591,4,False,False
+Star Lord,Tech,5538,4,True,False
+Vision,Tech,5414,4,False,False
+Mordo,Mystic,5196,4,False,False
+Wolverine,Mutant,5173,4,True,False

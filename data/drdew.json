@@ -12,7 +12,8 @@
       "name": "Drax",
       "class": "Cosmic",
       "pi": 7828,
-      "stars": 5
+      "stars": 5,
+      "attack": true
     },
     {
       "name": "Drax",
@@ -80,7 +81,8 @@
       "name": "Ultron",
       "class": "Tech",
       "pi": 5642,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Hawkeye",

@@ -35,5 +35,8 @@ else:
             else:
                 header = False
         print(player)
-
+        filename = 'convert/'+ sys.argv[1] + '/' + player['id'] + '.json'
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        with open('convert/'+ sys.argv[1] + '/' + player['id'] + '.json', 'w') as fp:
+            json.dump(player, fp)
         f.close()

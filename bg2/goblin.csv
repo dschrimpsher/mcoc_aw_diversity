@@ -1,41 +1,41 @@
-Champ,Class,PI,Attack,Defense
-Gwenpool,Skill,5932,False,False
-Magik,Mystic,5640,False,False
-Daredevil,Skill,5366,True,False
-Captain Marvel,Cosmic,5283,True,False
-Hulk,Science,5167,False,False
-Vision,Tech,5154,False,False
-Wolverine,Mutant,4959,True,False
-Quake,Science,4525,False,False
-Electro,Science,4316,False,False
-Thor,Cosmic,4312,False,False
-Civil Warrior,Tech,4275,False,False
-Elektra,Skill,4244,False,False
-Agent Venom,Skill,4229,False,False
-Archangel,Mutant,4226,False,False
-Black Panther CW,Skill,4200,False,False
-Magneto,Mutant,4138,False,False
-Ultron,Tech,4028,False,False
-Spider-Man Black,Cosmic,4007,False,False
-Wolverine X-23,Mutant,3976,False,False
-Abomination,Science,3955,False,False
-Iron Man,Tech,3919,False,False
-Nightcrawler,Mutant,3890,False,False
-Winter Soldier,Skill,3887,False,False
-Colossus,Mutant,3848,False,False
-Guillotine,Mystic,3757,False,False
-Iceman,Mutant,3704,False,False
-Hyperion,Cosmic,3699,False,False
-Phoenix,Cosmic,3546,False,False
-Thor Lady,Mystic,3146,False,False
-Loki,Mystic,3052,False,False
-Groot,Cosmic,3017,False,False
-Moon Knight,Skill,3005,False,False
-Magneto,Mutant,2998,False,False
-Doctor Strange,Mystic,2983,False,False
-Venom,Cosmic,2960,False,False
-Daredevil Netflix,Skill,2959,False,False
-Ms. Marvel KK,Cosmic,2931,False,False
-Captain America,Science,2918,False,False
-Hawkeye,Skill,2915,False,False
-Ant Man,Science,2883,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Gwenpool,Skill,5932,4,False,False
+Magik,Mystic,5640,4,False,False
+Daredevil,Skill,5366,4,True,False
+Captain Marvel,Cosmic,5283,4,True,False
+Hulk,Science,5167,5,False,False
+Vision,Tech,5154,4,False,False
+Wolverine,Mutant,4959,4,True,False
+Quake,Science,4525,4,False,False
+Electro,Science,4316,4,False,False
+Thor,Cosmic,4312,4,False,False
+Civil Warrior,Tech,4275,4,False,False
+Elektra,Skill,4244,4,False,False
+Agent Venom,Skill,4229,4,False,False
+Archangel,Mutant,4226,4,False,False
+Black Panther CW,Skill,4200,4,False,False
+Magneto,Mutant,4138,5,False,False
+Ultron,Tech,4028,4,False,False
+Spider-Man Black,Cosmic,4007,4,False,False
+Wolverine X-23,Mutant,3976,4,False,False
+Abomination,Science,3955,4,False,False
+Iron Man,Tech,3919,4,False,False
+Nightcrawler,Mutant,3890,4,False,False
+Winter Soldier,Skill,3887,4,False,False
+Colossus,Mutant,3848,4,False,False
+Guillotine,Mystic,3757,4,False,False
+Iceman,Mutant,3704,4,False,False
+Hyperion,Cosmic,3699,4,False,False
+Phoenix,Cosmic,3546,4,False,False
+Thor Lady,Mystic,3146,4,False,False
+Loki,Mystic,3052,4,False,False
+Groot,Cosmic,3017,4,False,False
+Moon Knight,Skill,3005,4,False,False
+Magneto,Mutant,2998,4,False,False
+Doctor Strange,Mystic,2983,4,False,False
+Venom,Cosmic,2960,4,False,False
+Daredevil Netflix,Skill,2959,4,False,False
+Ms. Marvel KK,Cosmic,2931,5,False,False
+Captain America,Science,2918,4,False,False
+Hawkeye,Skill,2915,4,False,False
+Ant Man,Science,2883,4,False,False

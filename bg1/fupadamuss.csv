@@ -1,47 +1,47 @@
-Champ,Class,PI,Attack,Defense
-Guillotine,Mystic,8588,True,False
-Black Panther,Skill,7789,True,False
-Quake,Science,6575,False,False
-The Hood,Mystic,6575,False,False
-Doctor Voodo,Mystic,6505,False,False
-Super Iron Man,Tech,6226,False,False
-Electro,Science,6156,False,False
-Iron Fist,Mystic,6063,False,False
-Thor,Cosmic,6041,True,False
-Ronan,Cosmic,6038,False,False
-Black Widow,Skill,5891,False,False
-Ultron,Tech,5891,False,False
-Ultron,Tech,5853,False,False
-Captain America WWII,Science,5852,True,False
-Iceman,Mutant,5820,False,False
-Cyclops,Mutant,5750,False,False
-Wolverine X-23,Mutant,5701,True,False
-Vision,Tech,5555,True,False
-Scarlet Witch,Mystic,5456,False,False
-Captain America,Science,5226,False,False
-Rhino,Science,5127,False,False
-Phoenix,Cosmic,5023,False,False
-Carnage,Cosmic,4808,False,False
-Gwenpool,Skill,4767,False,False
-Archangel,Mutant,4631,False,False
-The Hood,Mystic,4606,False,False
-Green Goblin,Tech,4569,False,False
-Elektra,Skill,4507,False,False
-Hyperion,Cosmic,4479,False,False
-Agent Venom,Skill,4423,False,False
-Super Iron Man,Tech,4413,False,False
-Cross Bones,Skill,4377,False,False
-Iron Man,Tech,4357,False,False
-Rogue,Mutant,4338,False,False
-Iron Patriot,Tech,4283,False,False
-Magneto,Mutant,4236,False,False
-Magik,Mutant,4233,False,False
-Spider-Man Black,Cosmic,4201,False,False
-Star Lord,Tech,4143,False,False
-Black Panther CW,Skill,4142,False,False
-Black Bolt,Cosmic,4104,False,False
-Daredevil,Skill,4059,False,False
-Hawkeye,Skill,4049,False,False
-Black Panther,Skill,4017,False,False
-Hawkeye,Skill,4005,False,False
-Colossus,Mutant,4005,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Guillotine,Mystic,8588,5,True,False
+Black Panther,Skill,7789,5,True,False
+Quake,Science,6575,4,False,False
+The Hood,Mystic,6575,4,False,False
+Doctor Voodo,Mystic,6505,4,False,False
+Super Iron Man,Tech,6226,5,False,False
+Electro,Science,6156,4,False,False
+Iron Fist,Mystic,6063,4,False,False
+Thor,Cosmic,6041,4,True,False
+Ronan,Cosmic,6038,5,False,False
+Black Widow,Skill,5891,4,False,False
+Ultron,Tech,5891,4,False,False
+Ultron,Tech,5853,4,False,False
+Captain America WWII,Science,5852,4,True,False
+Iceman,Mutant,5820,4,False,False
+Cyclops,Mutant,5750,4,False,False
+Wolverine X-23,Mutant,5701,4,True,False
+Vision,Tech,5555,4,True,False
+Scarlet Witch,Mystic,5456,4,False,False
+Captain America,Science,5226,5,False,False
+Rhino,Science,5127,5,False,False
+Phoenix,Cosmic,5023,4,False,False
+Carnage,Cosmic,4808,4,False,False
+Gwenpool,Skill,4767,4,False,False
+Archangel,Mutant,4631,4,False,False
+The Hood,Mystic,4606,4,False,False
+Green Goblin,Tech,4569,4,False,False
+Elektra,Skill,4507,4,False,False
+Hyperion,Cosmic,4479,4,False,False
+Agent Venom,Skill,4423,4,False,False
+Super Iron Man,Tech,4413,4,False,False
+Cross Bones,Skill,4377,4,False,False
+Iron Man,Tech,4357,5,False,False
+Rogue,Mutant,4338,4,False,False
+Iron Patriot,Tech,4283,5,False,False
+Magneto,Mutant,4236,4,False,False
+Magik,Mutant,4233,4,False,False
+Spider-Man Black,Cosmic,4201,4,False,False
+Star Lord,Tech,4143,4,False,False
+Black Panther CW,Skill,4142,5,False,False
+Black Bolt,Cosmic,4104,4,False,False
+Daredevil,Skill,4059,4,False,False
+Hawkeye,Skill,4049,4,False,False
+Black Panther,Skill,4017,4,False,False
+Hawkeye,Skill,4005,5,False,False
+Colossus,Mutant,4005,4,False,False

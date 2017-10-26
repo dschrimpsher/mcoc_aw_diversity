@@ -1,18 +1,18 @@
-Champ,Class,PI,Attack,Defense
-Star Lord,Tech,7926,True,False
-Drax,Cosmic,7828,False,False
-Doctor Voodo,Mystic,6389,True,False
-Archangel,Mutant,6120,True,False
-Cross Bones,Skill,5891,False,False
-Hyperion,Cosmic,5813,False,False
-Electro,Science,5808,False,False
-Juggernaut,Mystic,5740,False,False
-Magik,Mystic,5709,False,False
-Dormammu,Mystic,5655,False,False
-Captain America WWII,Science,5648,False,False
-Ultron,Tech,5642,False,False
-Hawkeye,Skill,5640,False,False
-Scarlet Witch,Mystic,5430,False,False
-Black Panther,Skill,5423,False,False
-Wolverine,Mutant,4964,False,False
-Drax,Cosmic,4027,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Star Lord,Tech,7926,5,True,False
+Drax,Cosmic,7828,5,False,False
+Doctor Voodo,Mystic,6389,4,True,False
+Archangel,Mutant,6120,4,True,False
+Cross Bones,Skill,5891,4,False,False
+Hyperion,Cosmic,5813,4,False,False
+Electro,Science,5808,4,False,False
+Juggernaut,Mystic,5740,5,False,False
+Magik,Mystic,5709,4,False,False
+Dormammu,Mystic,5655,4,False,False
+Captain America WWII,Science,5648,4,False,False
+Ultron,Tech,5642,4,False,False
+Hawkeye,Skill,5640,5,False,False
+Scarlet Witch,Mystic,5430,4,False,False
+Black Panther,Skill,5423,5,False,False
+Wolverine,Mutant,4964,4,False,False
+Drax,Cosmic,4027,4,False,False

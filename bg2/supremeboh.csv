@@ -1,41 +1,41 @@
-Champ,Class,PI,Attack,Defense
-Mordo,Mystic,6496,False,True
-Star Lord,Tech,7488,True,False
-Thor,Cosmic,5839,True,False
-Hyperion,Cosmic,5783,True,False
-Hawkeye,Skill,5468,True,False
-Wolverine,Mutant,5076,True,False
-Rogue,Mutant,4523,False,False
-Karnak,Skill,4501,False,False
-Cross Bones,Skill,4430,False,False
-Electro,Science,4183,False,False
-Iron Fist,Mystic,4149,False,False
-Magneto White,Mutant,4124,False,False
-Gamora,Cosmic,4122,False,False
-Ultron,Tech,4081,False,False
-Captain America,Science,3996,False,False
-Magneto,Mutant,3962,False,False
-Drax,Cosmic,3952,False,False
-Hulk,Science,3937,False,False
-Guillotine,Mystic,3936,False,False
-Elektra,Skill,3892,False,False
-Scarlet Witch,Mystic,3870,False,False
-Cyclops,Mutant,3824,False,False
-Storm,Mutant,3799,False,False
-Magik,Mystic,3789,False,False
-Hulk,Science,3755,False,False
-Iron Man,Tech,3721,False,False
-Colossus,Mutant,3652,False,False
-Unstopable Colossus,Mystic,3647,False,False
-Venom,Cosmic,3646,False,False
-Black Panther,Skill,3588,False,False
-Doctor Strange,Mystic,3582,False,False
-Falcon,Skill,3295,False,False
-Beast,Mutant,3191,False,False
-Hulkbuster,Tech,3166,False,False
-Ms. Marvel KK,Cosmic,3131,False,False
-Super Iron Man,Cosmic,3130,False,False
-Spider-Man Miles,Science,3122,False,False
-Cyclops,Mutant,3089,False,False
-Ghost Rider,Mystic,3057,False,False
-Old Man Logan,Mutant,3033,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Mordo,Mystic,6496,4,False,True
+Star Lord,Tech,7488,5,True,False
+Thor,Cosmic,5839,4,True,False
+Hyperion,Cosmic,5783,4,True,False
+Hawkeye,Skill,5468,5,True,False
+Wolverine,Mutant,5076,4,True,False
+Rogue,Mutant,4523,4,False,False
+Karnak,Skill,4501,4,False,False
+Cross Bones,Skill,4430,4,False,False
+Electro,Science,4183,4,False,False
+Iron Fist,Mystic,4149,4,False,False
+Magneto White,Mutant,4124,4,False,False
+Gamora,Cosmic,4122,4,False,False
+Ultron,Tech,4081,4,False,False
+Captain America,Science,3996,4,False,False
+Magneto,Mutant,3962,4,False,False
+Drax,Cosmic,3952,4,False,False
+Hulk,Science,3937,4,False,False
+Guillotine,Mystic,3936,5,False,False
+Elektra,Skill,3892,5,False,False
+Scarlet Witch,Mystic,3870,4,False,False
+Cyclops,Mutant,3824,5,False,False
+Storm,Mutant,3799,5,False,False
+Magik,Mystic,3789,5,False,False
+Hulk,Science,3755,5,False,False
+Iron Man,Tech,3721,5,False,False
+Colossus,Mutant,3652,5,False,False
+Unstopable Colossus,Mystic,3647,5,False,False
+Venom,Cosmic,3646,5,False,False
+Black Panther,Skill,3588,5,False,False
+Doctor Strange,Mystic,3582,4,False,False
+Falcon,Skill,3295,4,False,False
+Beast,Mutant,3191,4,False,False
+Hulkbuster,Tech,3166,4,False,False
+Ms. Marvel KK,Cosmic,3131,4,False,False
+Super Iron Man,Cosmic,3130,4,False,False
+Spider-Man Miles,Science,3122,4,False,False
+Cyclops,Mutant,3089,4,False,False
+Ghost Rider,Mystic,3057,4,False,False
+Old Man Logan,Mutant,3033,4,False,False

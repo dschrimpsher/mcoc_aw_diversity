@@ -1,29 +1,29 @@
-Champ,Class,PI,Attack,Defense
-Iron Fist,Mystic,10450,True,False
-Doctor Voodo,Mystic,7376,False,False
-Rogue,Mutant,7271,False,False
-Gwenpool,Skill,7160,False,False
-Mordo,Mystic,6946,False,False
-Cross Bones,Skill,6765,True,False
-Guillotine,Mystic,6743,False,False
-Hyperion,Cosmic,6679,True,False
-Ultron,Tech,6665,True,False
-Spider-Man,Science,6661,False,False
-Hawkeye,Skill,6582,True,False
-Vision,Tech,6504,False,False
-Hulk,Science,6490,True,False
-Wolverine X-23,Mutant,6464,True,False
-Star Lord,Tech,6375,False,False
-Magik,Mystic,6178,False,False
-Phoenix,Cosmic,5948,False,False
-Rocket Raccoon,Tech,5643,False,False
-Archangel,Mutant,5424,False,False
-Nightcrawler,Mutant,5398,False,False
-Elektra,Skill,5207,False,False
-Black Widow,Skill,5167,False,False
-The Hood,Mystic,5137,False,False
-Yellow Jacket,Mystic,4941,False,False
-Hulkbuster,Tech,4940,False,False
-Iceman,Mutant,4919,False,False
-Black Panther CW,Skill,4826,False,False
-Ghost Rider,Mystic,588,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Iron Fist,Mystic,10450,5,True,False
+Doctor Voodo,Mystic,7376,4,False,False
+Rogue,Mutant,7271,4,False,False
+Gwenpool,Skill,7160,4,False,False
+Mordo,Mystic,6946,4,False,False
+Cross Bones,Skill,6765,4,True,False
+Guillotine,Mystic,6743,4,False,False
+Hyperion,Cosmic,6679,4,True,False
+Ultron,Tech,6665,4,True,False
+Spider-Man,Science,6661,4,False,False
+Hawkeye,Skill,6582,5,True,False
+Vision,Tech,6504,4,False,False
+Hulk,Science,6490,4,True,False
+Wolverine X-23,Mutant,6464,4,True,False
+Star Lord,Tech,6375,4,False,False
+Magik,Mystic,6178,4,False,False
+Phoenix,Cosmic,5948,4,False,False
+Rocket Raccoon,Tech,5643,4,False,False
+Archangel,Mutant,5424,4,False,False
+Nightcrawler,Mutant,5398,4,False,False
+Elektra,Skill,5207,4,False,False
+Black Widow,Skill,5167,4,False,False
+The Hood,Mystic,5137,4,False,False
+Yellow Jacket,Mystic,4941,4,False,False
+Hulkbuster,Tech,4940,4,False,False
+Iceman,Mutant,4919,4,False,False
+Black Panther CW,Skill,4826,4,False,False
+Ghost Rider,Mystic,588,4,False,False

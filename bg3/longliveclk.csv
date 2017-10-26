@@ -1,26 +1,26 @@
-Champ,Class,PI,Attack,Defense
-Iceman,Mutant,8410,False,False
-Gwenpool,Skill,6150,False,False
-Morningstar,Mystic,5924,False,False
-Scarlet Witch,Mystic,5407,False,False
-Star Lord,Tech,5312,False,False
-Drax,Cosmic,5246,True,False
-Wolverine,Mutant,5060,True,False
-Captain America WWII,Science,4929,False,False
-Phoenix,Cosmic,4895,False,False
-Mordo,Mystic,4811,False,False
-Punisher 2099,Tech,4520,False,False
-Nightcrawler,Mutant,4409,False,False
-Thor,Cosmic,4379,False,False
-Electro,Science,4274,False,False
-Cross Bones,Skill,4272,False,False
-Spider-Man Stark,Tech,4240,False,False
-Black Panther CW,Skill,4182,False,False
-Guillotine,Mystic,4174,False,False
-Ghost Rider,Mystic,4104,False,False
-Ultron,Tech,4097,False,False
-Wolverine X-23,Mutant,4091,False,False
-Magik,Mystic,4053,False,False
-Hulk,Science,3979,False,False
-Civil Warrior,Tech,3969,False,False
-Spider-Man,Science,3965,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Iceman,Mutant,8410,5,False,False
+Gwenpool,Skill,6150,4,False,False
+Morningstar,Mystic,5924,5,False,False
+Scarlet Witch,Mystic,5407,4,False,False
+Star Lord,Tech,5312,4,False,False
+Drax,Cosmic,5246,5,True,False
+Wolverine,Mutant,5060,4,True,False
+Captain America WWII,Science,4929,4,False,False
+Phoenix,Cosmic,4895,4,False,False
+Mordo,Mystic,4811,4,False,False
+Punisher 2099,Tech,4520,4,False,False
+Nightcrawler,Mutant,4409,4,False,False
+Thor,Cosmic,4379,4,False,False
+Electro,Science,4274,4,False,False
+Cross Bones,Skill,4272,4,False,False
+Spider-Man Stark,Tech,4240,4,False,False
+Black Panther CW,Skill,4182,4,False,False
+Guillotine,Mystic,4174,4,False,False
+Ghost Rider,Mystic,4104,4,False,False
+Ultron,Tech,4097,4,False,False
+Wolverine X-23,Mutant,4091,4,False,False
+Magik,Mystic,4053,4,False,False
+Hulk,Science,3979,4,False,False
+Civil Warrior,Tech,3969,5,False,False
+Spider-Man,Science,3965,4,False,False

@@ -53,7 +53,8 @@
       "name": "Doctor Voodo",
       "class": "Mystic",
       "pi": 6161,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Gwenpool",
@@ -65,7 +66,8 @@
       "name": "Guillotine",
       "class": "Mystic",
       "pi": 6187,
-      "stars": 5
+      "stars": 5,
+      "attack": true
     },
     {
       "name": "Spider-Man",

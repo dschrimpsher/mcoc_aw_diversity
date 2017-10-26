@@ -136,7 +136,7 @@
     "class": "Mystic",
     "pi": 5175,
     "stars": 4,
-    "defense": false
+    "attack": true
   },
   {
     "name": "Hawkeye",

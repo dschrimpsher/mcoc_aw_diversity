@@ -12,7 +12,8 @@
       "name": "Gwenpool",
       "class": "Skill",
       "pi": 6150,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Morningstar",
@@ -25,13 +26,15 @@
       "name": "Scarlet Witch",
       "class": "Mystic",
       "pi": 5407,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Star Lord",
       "class": "Tech",
       "pi": 5312,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Drax",
@@ -138,7 +141,8 @@
       "name": "Magik",
       "class": "Mystic",
       "pi": 4053,
-      "stars": 4
+      "stars": 4,
+      "attack": true
     },
     {
       "name": "Hulk",

@@ -20,7 +20,7 @@
       "class": "Cosmic",
       "pi": 5783,
       "stars": 4,
-      "attack": true
+      "attack": false
     },
     {
       "name": "Hawkeye",

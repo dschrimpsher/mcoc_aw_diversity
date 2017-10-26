@@ -4,59 +4,61 @@
     {
       "name": "Doctor Voodo",
       "class": "Mystic",
-      "pi": 6672,
+      "pi": 6695,
       "stars": 4,
       "attack": true
     },
     {
       "name": "Ghost Rider",
       "class": "Mystic",
-      "pi": 6579,
+      "pi": 6598,
       "stars": 4,
       "attack": true
     },
     {
       "name": "Karnak",
       "class": "Skill",
-      "pi": 6497,
+      "pi": 6513,
       "stars": 4
     },
     {
       "name": "Nightcrawler",
       "class": "Mutant",
-      "pi": 6305,
+      "pi": 6322,
       "stars": 4
     },
     {
       "name": "Black Widow",
       "class": "Skill",
-      "pi": 5966,
+      "pi": 5987,
       "stars": 4,
       "attack": true
     },
     {
       "name": "Daredevil",
       "class": "Skill",
-      "pi": 5800,
+      "pi": 5819,
       "stars": 4
     },
     {
       "name": "Star Lord",
       "class": "Tech",
-      "pi": 5702,
+      "pi": 5717,
       "stars": 4
     },
     {
       "name": "Ant Man",
       "class": "Science",
-      "pi": 5644,
-      "stars": 5
+      "pi": 5664,
+      "stars": 5,
+      "defense": true
     },
     {
       "name": "Hulk",
       "class": "Science",
-      "pi": 5626,
-      "stars": 5
+      "pi": 5644,
+      "stars": 5,
+      "attack": true
     },
     {
       "name": "Vision",
@@ -73,7 +75,7 @@
     {
       "name": "Iron Fist",
       "class": "Mystic",
-      "pi": 4760,
+      "pi": 6668,
       "stars": 5
     },
     {

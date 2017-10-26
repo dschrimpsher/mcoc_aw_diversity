@@ -1,31 +1,31 @@
-Champ,Class,PI,Attack,Defense
-Rhino,Science,7512,False,False
-Mordo,Mystic,6544,False,False
-Psylocke,Mutant,6145,False,False
-Black Widow,Skill,5911,True,False
-Guillotine,Mystic,5882,True,False
-Storm,Mutant,5607,False,False
-Star Lord,Tech,5582,True,False
-Doctor Strange,Mystic,5547,False,False
-Drax,Cosmic,5462,False,False
-Star Lord,Tech,5376,False,False
-Black Panther CW,Skill,5238,False,False
-Electro,Science,4565,False,False
-Civil Warrior,Tech,4467,False,False
-Elektra,Skill,4444,False,False
-Dormammu,Mystic,4368,False,False
-Spider-Man Miles,Science,4316,False,False
-Ultron,Tech,4307,False,False
-Quake,Science,4265,False,False
-Iron Man,Tech,4264,False,False
-Gwenpool,Skill,4234,False,False
-Rocket Raccoon,Tech,4199,False,False
-Daredevil,Skill,4179,False,False
-Ms. Marvel,Cosmic,4174,False,False
-Scarlet Witch,Mystic,4159,False,False
-Spider-Man,Science,4138,False,False
-Venom,Cosmic,4122,False,False
-Captain Marvel,Cosmic,4081,False,False
-The Hood,Mystic,4049,False,False
-Magneto,Mutant,4041,False,False
-Cyclops,Mutant,4036,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Rhino,Science,7512,5,False,False
+Mordo,Mystic,6544,5,False,False
+Psylocke,Mutant,6145,4,False,False
+Black Widow,Skill,5911,4,True,False
+Guillotine,Mystic,5882,5,True,False
+Storm,Mutant,5607,5,False,False
+Star Lord,Tech,5582,4,True,False
+Doctor Strange,Mystic,5547,4,False,False
+Drax,Cosmic,5462,5,False,False
+Star Lord,Tech,5376,5,False,False
+Black Panther CW,Skill,5238,4,False,False
+Electro,Science,4565,4,False,False
+Civil Warrior,Tech,4467,4,False,False
+Elektra,Skill,4444,4,False,False
+Dormammu,Mystic,4368,4,False,False
+Spider-Man Miles,Science,4316,4,False,False
+Ultron,Tech,4307,4,False,False
+Quake,Science,4265,4,False,False
+Iron Man,Tech,4264,5,False,False
+Gwenpool,Skill,4234,4,False,False
+Rocket Raccoon,Tech,4199,5,False,False
+Daredevil,Skill,4179,4,False,False
+Ms. Marvel,Cosmic,4174,4,False,False
+Scarlet Witch,Mystic,4159,4,False,False
+Spider-Man,Science,4138,4,False,False
+Venom,Cosmic,4122,4,False,False
+Captain Marvel,Cosmic,4081,4,False,False
+The Hood,Mystic,4049,4,False,False
+Magneto,Mutant,4041,5,False,False
+Cyclops,Mutant,4036,5,False,False

@@ -1,29 +1,29 @@
-Champ,Class,PI,Attack,Defense
-Doctor Voodo,Mystic,6602,True,False
-Gwenpool,Skill,6036,True,False
-Hyperion,Cosmic,5845,False,False
-Vision,Tech,5667,True,False
-Quake,Science,4716,False,False
-Rogue,Mutant,4484,False,False
-Mordo,Mystic,4418,False,False
-Agent Venom,Skill,4357,False,False
-Thor,Cosmic,4336,False,False
-Cross Bones,Skill,4277,False,False
-Black Widow,Skill,4277,False,False
-Carnage,Cosmic,4216,False,False
-Super Iron Man,Cosmic,4193,False,False
-Doctor Strange,Mystic,4184,False,False
-Scarlet Witch,Mystic,4170,False,False
-Guillotine,Mystic,4149,False,False
-Blade,Skill,4141,False,False
-Rocket Raccoon,Tech,4043,False,False
-Yellow Jacket,Science,4035,False,False
-Archangel,Mutant,3997,False,False
-Hulk,Science,3982,False,False
-Nightcrawler,Mutant,3964,False,False
-Black Panther,Skill,3927,False,False
-Captain America WWII,Science,3694,False,False
-Ultron,Tech,3602,False,False
-Loki,Mystic,3589,False,False
-Thor Lady,Mystic,3322,False,False
-Red Hulk,Science,3278,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Doctor Voodo,Mystic,6602,4,True,False
+Gwenpool,Skill,6036,4,True,False
+Hyperion,Cosmic,5845,4,False,False
+Vision,Tech,5667,4,True,False
+Quake,Science,4716,4,False,False
+Rogue,Mutant,4484,4,False,False
+Mordo,Mystic,4418,4,False,False
+Agent Venom,Skill,4357,4,False,False
+Thor,Cosmic,4336,4,False,False
+Cross Bones,Skill,4277,4,False,False
+Black Widow,Skill,4277,4,False,False
+Carnage,Cosmic,4216,5,False,False
+Super Iron Man,Cosmic,4193,4,False,False
+Doctor Strange,Mystic,4184,4,False,False
+Scarlet Witch,Mystic,4170,4,False,False
+Guillotine,Mystic,4149,5,False,False
+Blade,Skill,4141,4,False,False
+Rocket Raccoon,Tech,4043,5,False,False
+Yellow Jacket,Science,4035,4,False,False
+Archangel,Mutant,3997,4,False,False
+Hulk,Science,3982,4,False,False
+Nightcrawler,Mutant,3964,4,False,False
+Black Panther,Skill,3927,4,False,False
+Captain America WWII,Science,3694,4,False,False
+Ultron,Tech,3602,4,False,False
+Loki,Mystic,3589,4,False,False
+Thor Lady,Mystic,3322,4,False,False
+Red Hulk,Science,3278,4,False,False

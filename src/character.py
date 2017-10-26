@@ -29,5 +29,5 @@ class Character:
         return temp
 
     def convertToCsv(self):
-        temp = [self.name,   self.classType, self.pi, self.attack, self.defense]
+        temp = [self.name,   self.classType, self.pi, self.stars,  self.attack, self.defense]
         return temp

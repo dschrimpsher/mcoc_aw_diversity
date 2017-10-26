@@ -1,21 +1,21 @@
-Champ,Class,PI,Attack,Defense
-Guillotine,Mystic,6187,False,False
-Doctor Voodo,Mystic,6161,False,False
-Gwenpool,Skill,6121,False,False
-Gwenpool,Skill,6121,False,False
-Spider-Man,Science,5245,False,False
-Agent Venom,Skill,4392,False,False
-Falcon,Skill,4365,False,False
-Black Panther CW,Skill,4251,False,False
-Mordo,Mystic,4167,False,False
-Kingpin,Skill,3895,False,False
-Star Lord,Tech,3669,False,False
-The Hood,Mystic,2087,False,False
-Thor Lady,Mystic,1478,False,False
-Deadpool X-Factor,Mutant,1466,False,False
-Cyclops,Mutant,1443,False,False
-Joe Fixit,Science,1421,False,False
-Daredevil,Skill,1415,False,False
-Spider-Man,Science,1394,False,False
-Black Panther,Skill,1352,False,False
-Hawkeye,Skill,1343,False,False
+Champ,Class,PI,Stars,Attack,Defense
+Guillotine,Mystic,6187,5,False,False
+Doctor Voodo,Mystic,6161,4,False,False
+Gwenpool,Skill,6121,4,False,False
+Gwenpool,Skill,6121,4,False,False
+Spider-Man,Science,5245,5,False,False
+Agent Venom,Skill,4392,4,False,False
+Falcon,Skill,4365,4,False,False
+Black Panther CW,Skill,4251,4,False,False
+Mordo,Mystic,4167,4,False,False
+Kingpin,Skill,3895,4,False,False
+Star Lord,Tech,3669,5,False,False
+The Hood,Mystic,2087,4,False,False
+Thor Lady,Mystic,1478,4,False,False
+Deadpool X-Factor,Mutant,1466,4,False,False
+Cyclops,Mutant,1443,4,False,False
+Joe Fixit,Science,1421,4,False,False
+Daredevil,Skill,1415,4,False,False
+Spider-Man,Science,1394,4,False,False
+Black Panther,Skill,1352,4,False,False
+Hawkeye,Skill,1343,4,False,False
